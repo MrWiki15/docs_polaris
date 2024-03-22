@@ -1,8 +1,10 @@
 # 🚂 Qsoft Development Team
 
-<figure><img src="../../../.gitbook/assets/WhatsApp-Image-2023-11-24-at-17.20.12-1-e1700896264378 (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/WhatsApp-Image-2023-11-24-at-17.20.12-1-e1700896264378 (1).jpeg" alt=""><figcaption><p>Oficinas Qsoft</p></figcaption></figure>
 
-Qsoft es un equipo formado por 4 desarrolladores de Software que intentaron crear un luz en medio de un océano de oscuridad.&#x20;
+Qsoft es un equipo formado por 4 desarrolladores de Software cubanos que intentaron <mark style="color:yellow;">crear</mark> un luz en medio de un océano de oscuridad.&#x20;
+
+
 
 ### Inicios
 
