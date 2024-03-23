@@ -17,4 +17,11 @@ Para llegar a una correcta valoracion de nuestra competencia tenemos que ver y a
 
 ***
 
-###
+### Paso 0
+
+A la hora de analizar la competencia que podría tener en el mercado un producto o un servicio, lo primero que deberíamos hacer es detectar a dicha competencia. Y después de semanas investigando el sector. Encontramos alrededor de 39 posibles competidores:
+
+#### Internacionales&#x20;
+
+* [Armadillo Amarillo](https://www.linkedin.com/company/armadillo-amarillo/): Agencia tecnológica española especializada en el desarrollo Blockchain.
+*
