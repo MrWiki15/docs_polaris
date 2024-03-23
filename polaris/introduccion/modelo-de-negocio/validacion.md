@@ -7,9 +7,8 @@ Para validar un modelo de negocio y determinar que sera estable y potencialmente
 1. **Necesidad del mercado**: ¿Existe una demanda suficiente para los servicios de desarrollo de software, páginas web y aplicaciones móviles multiplataforma en Cuba y en el extranjero?
 2. **Competencia**: ¿Cómo se compara Qsoft con otras empresas que ofrecen servicios similares? ¿Qué los hace únicos o mejores que los demás?
 3. **Viabilidad financiera**: ¿El precio de los servicios de Qsoft es competitivo y al mismo tiempo rentable? ¿Pueden las empresas objetivo permitirse sus servicios?
-4. **Regulaciones legales**: ¿Cumplen todos los servicios de Qsoft con las leyes y regulaciones locales e internacionales, especialmente en lo que respecta a la tecnología blockchain y las criptomonedas?
-5. **Estrategia de marketing**: ¿Es efectiva su estrategia de acercarse proactivamente a los clientes y ofrecerles soluciones innovadoras?
-6. **Capacidad de ejecución**: ¿Tiene Qsoft el equipo y los recursos necesarios para entregar sus servicios de manera eficiente y efectiva?
+4. **Estrategia de marketing**: ¿Es efectiva su estrategia de acercarse proactivamente a los clientes y ofrecerles soluciones innovadoras?
+5. **Capacidad de ejecución**: ¿Tiene Qsoft el equipo y los recursos necesarios para entregar sus servicios de manera eficiente y efectiva?
 
 ***
 
@@ -27,33 +26,45 @@ Esto a su ves a provocado que la tecnología Blockchain cada ves sea mas demanda
 
 Qsoft se enfrenta a una competencia significativa de empresas a nivel nacional como:
 
-1. <mark style="color:yellow;">**Dofleini Software**</mark>**:** Una empresa ya con bastante reputación en el mercado cubano, realizando trabajos para medio de comunicacion bastante relevantes a nivel nacional como CubaDebate&#x20;
+[<mark style="color:yellow;">**Dofleini Software**</mark>**:**](https://www.dofleini.com/es/) Una empresa ya con bastante reputación en el mercado cubano, realizando trabajos para medio de comunicación bastante relevantes a nivel nacional como CubaDebate.
 
-. Sin embargo, lo que distingue a Qsoft es su enfoque en la creación de páginas web y aplicaciones multiplataforma, así como su producto Polaris, un ecosistema de utilidades creado para la comunidad web3 Este enfoque único y especializado puede dar a Qsoft una ventaja competitiva en el mercado.
+Y a nivel internacional, también tenemos competidores dentro del sector hispano mencionados anteriormente en [Modelo de Negocio](./).
+
+{% hint style="info" %}
+Mas informacion sobre nuestra competencia en [Competencia](competencia.md).&#x20;
+{% endhint %}
+
+Sin embargo, lo que distingue a Qsoft es su enfoque en la creación de páginas web y aplicaciones multiplataforma basadas en tecnología Blockchain, así como nuestro producto Polaris, un ecosistema de utilidades creado para la comunidad Web3. Este enfoque único y especializado puede dar a Qsoft una ventaja competitiva en el mercado.
 
 ***
 
 ### Viabilidad Financiera
 
-[Aunque no se encontraron datos específicos sobre los precios de los servicios de Qsoft](https://nix-united.com/services/cross-platform-app-development/)[8](https://www.capterra.com/p/181483/Qsoft-Amcs/pricing/)[9](https://www.qsoftware.com/), es importante tener en cuenta que la viabilidad financiera de una empresa no solo depende de sus precios, sino también de su estructura de costos. En el caso de Qsoft, su ubicación en Cuba puede ofrecer ventajas significativas. [El salario promedio en Cuba es de aproximadamente 4209 pesos cubanos al mes](https://tradingeconomics.com/cuba/wages)[10](https://tradingeconomics.com/cuba/wages)[11](https://www.salaryexplorer.com/average-salary-wage-comparison-cuba-c55), lo que equivale a aproximadamente 14 dólares estadounidenses al mes, considerando la tasa de cambio actual de 300 pesos por 1 dólar estadounidense. Esto significa que Qsoft puede ofrecer servicios a un costo significativamente más bajo que sus competidores internacionales, lo que podría hacer que sus servicios sean más atractivos para las empresas objetivo.
+Es importante tener en cuenta que la viabilidad financiera de una empresa no solo depende de sus precios, sino también de su estructura de costos. En nuestro caso, nuestra ubicación en Cuba puede ofrecer ventajas significativas. [El salario promedio en Cuba es de aproximadamente 4209 pesos cubanos al mes](https://tradingeconomics.com/cuba/wages).
 
-***
+<figure><img src="../../../.gitbook/assets/Captura desde 2024-03-23 01-51-08.png" alt=""><figcaption></figcaption></figure>
 
-### Regulaciones Legales
+Lo que equivale a aproximadamente 14 dólares estadounidenses al mes, considerando la tasa de cambio actual de 300 pesos por 1 dólar estadounidense. Esto significa que Qsoft puede ofrecer servicios a un costo significativamente más bajo que sus competidores internacionales, lo que provocara que nuestros servicios sean más atractivos para las empresas objetivo.
 
-[En cuanto a las regulaciones legales, la Comisión Europea reconoce la importancia de la certeza jurídica y un régimen regulatorio claro en áreas relacionadas con las aplicaciones basadas en blockchain](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain)[12](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain). [Sin embargo, no se encontró información específica sobre las regulaciones en Cuba](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain)[12](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-blockchain).
+Aparte de poder permitirnos sacar provecho de la inestabilidad financiera actual dentro del país.&#x20;
 
 ***
 
 ### Estrategia de Marketing
 
-[La estrategia de marketing de Qsoft parece ser proactiva y centrada en el cliente](https://nix-united.com/services/cross-platform-app-development/)[13](https://www.qsoft.co/what-to-expect-from-digital-marketing-strategies/)[14](https://www.qsoft.co/marketing-important-organization/). Su enfoque en el desarrollo de Polaris como una herramienta de marketing y como una forma de demostrar la calidad de su trabajo es una estrategia inteligente que puede ayudar a atraer nuevos clientes.
+La estrategia de marketing que tenemos en Qsoft es sencilla, proactiva y centrada en el cliente. <mark style="color:yellow;">Nos enfocamos</mark> en llevarle al cliente soluciones basadas en tecnología Blockchain. Independientemente de su sector.&#x20;
+
+Una de las increíbles utilidades que da la tecnología blockchain es su facilidad <mark style="color:purple;">mutar, evolucionar y adaptarse</mark> a las necesidades de cualquier cliente. Nosotros pensamos aprovechar esto al máximo posible, y llevarle estas soluciones a empresas o proyectos que tengan, cero o muy poco conocimiento sobre esta tecnología.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Blockchain-Debate-1280x720-1.jpg" alt=""><figcaption></figcaption></figure>
+
+Y nuestro ecosistema sera nuestro caballo de Troya, el producto - comunidad y utilidad que nos permitirá superar las murallas de cualquier empresa tecnológica o competidora. Polaris es y sera nuestra principal herramienta de marketing y como una forma de demostrar la calidad de nuestro trabajo, nuestra principal prioridad es hacer de Polaris un producto de primer nivel dentro de la comunidad Web3 hispana.
 
 ***
 
 ### Capacidad de Ejecución
 
-[Qsoft parece tener un equipo sólido y los recursos necesarios para entregar sus servicios de manera eficiente y efectiva](https://www.qsoft.com/)[15](https://www.qsoft.com/)[16](https://www.linkedin.com/company/qs0ft). Sin embargo, no se encontraron detalles específicos sobre el tamaño o la composición de su equipo.
+Qsoft parece tener un equipo sólido y los recursos necesarios para entregar sus servicios de manera eficiente y efectiva. Sin embargo, no se encontraron detalles específicos sobre el tamaño o la composición de su equipo.
 
 ***
 
