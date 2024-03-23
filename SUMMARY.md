@@ -4,10 +4,10 @@
 
 * [📌 Introducción](README.md)
   * [📖 Historia](polaris/introduccion/historia/README.md)
-    * [👨‍🔬 Raidel](polaris/introduccion/historia/raidel.md)
-    * [👨‍🔬 Robert](polaris/introduccion/historia/robert.md)
+    * [👨‍🔬 Wilkenson](polaris/introduccion/historia/wilkenson.md)
     * [👨‍🔬 Manuel](polaris/introduccion/historia/manuel.md)
-    * [👨‍🔬 Wilkenson ](polaris/introduccion/historia/wilkenson.md)
+    * [👨‍🔬 Robert](polaris/introduccion/historia/robert.md)
+    * [👨‍🔬 Raidel](polaris/introduccion/historia/raidel.md)
     * [🚂 Qsoft Development Team](polaris/introduccion/historia/qsoft-development-team.md)
   * [🏦 Modelo de negocio](polaris/introduccion/modelo-de-negocio/README.md)
     * [✅ Validación  ](polaris/introduccion/modelo-de-negocio/validacion.md)
