@@ -15,13 +15,17 @@ Para validar un modelo de negocio y determinar que sera estable y potencialmente
 
 ### Necesidad del Mercado
 
-[La demanda de servicios de desarrollo de software, páginas web y aplicaciones móviles multiplataforma ha experimentado un crecimiento significativo tanto en Cuba como en el extranjero](https://nix-united.com/services/cross-platform-app-development/)[1](https://nix-united.com/services/cross-platform-app-development/)[2](https://www.businessofapps.com/app-developers/research/app-development-trends/)[3](https://www.techrepublic.com/article/top-development-frameworks/)[4](https://www.bitcot.com/cross-platform-mobile-app-development/). La adopción de tecnologías digitales se ha acelerado en todos los sectores, desde el gobierno hasta el comercio minorista. Cada sector ha recurrido a la digitalización para continuar con las operaciones comerciales durante la pandemia. Sin embargo, la creciente adopción de la nube y el Internet de las Cosas (IoT) ha planteado problemas de seguridad y privacidad en todos los sectores. [La tecnología blockchain ofrece protección de identidad, transparencia en las operaciones de la cadena de suministro y protección de los registros de salud](https://www.grandviewresearch.com/industry-analysis/blockchain-technology-market)[5](https://www.grandviewresearch.com/industry-analysis/blockchain-technology-market).
+La demanda de servicios de desarrollo de software, páginas web y aplicaciones móviles multiplataforma ha experimentado un crecimiento significativo tanto en Cuba como en el extranjero. La adopción de tecnologías digitales se ha acelerado en todos los sectores, desde el gobierno hasta el comercio minorista. Cada sector ha recurrido a la digitalización para continuar con las operaciones comerciales durante la pandemia. Sin embargo, la creciente adopción de la nube y el Internet de las Cosas (IoT) ha planteado problemas de seguridad y privacidad en todos los sectores. [La tecnología blockchain](https://www.grandviewresearch.com/industry-analysis/blockchain-technology-market) ofrece protección de identidad, transparencia en las operaciones de la cadena de suministro y protección de los registros de salud.
+
+<figure><img src="../../../.gitbook/assets/Captura desde 2024-03-23 00-40-03.png" alt=""><figcaption></figcaption></figure>
+
+Esto a su ves a provocado que la tecnología Blockchain cada ves sea mas demandada y que desarrolladores de software que creen soluciones tecnológicas basadas en Blockchain cada ves sean mas deseados.
 
 ***
 
 ### Competencia
 
-[Qsoft se enfrenta a una competencia significativa de empresas como Zack.ai, Digital Workforce y Exairon](https://nix-united.com/services/cross-platform-app-development/)[6](https://www.cbinsights.com/company/qsoft-2/alternatives-competitors). [Sin embargo, lo que distingue a Qsoft es su enfoque en la creación de páginas web y aplicaciones multiplataforma, así como su producto Polaris, un ecosistema de utilidades creado para la comunidad web3](https://nix-united.com/services/cross-platform-app-development/)[7](https://medium.com/@solidity101/exploring-the-future-of-solidity-a-journey-into-experimental-solidity-5c677c8d8308). Este enfoque único y especializado puede dar a Qsoft una ventaja competitiva en el mercado.
+Qsoft se enfrenta a una competencia significativa de empresas como . Sin embargo, lo que distingue a Qsoft es su enfoque en la creación de páginas web y aplicaciones multiplataforma, así como su producto Polaris, un ecosistema de utilidades creado para la comunidad web3 Este enfoque único y especializado puede dar a Qsoft una ventaja competitiva en el mercado.
 
 ***
 

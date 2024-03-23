@@ -11,7 +11,6 @@
     * [🚂 Qsoft Development Team](polaris/introduccion/historia/qsoft-development-team.md)
   * [🏦 Modelo de negocio](polaris/introduccion/modelo-de-negocio/README.md)
     * [✅ Validación  ](polaris/introduccion/modelo-de-negocio/validacion.md)
-    * [📘 Recursos ](polaris/introduccion/modelo-de-negocio/recursos.md)
     * [🏃‍♂️ Competencia ](polaris/introduccion/modelo-de-negocio/competencia.md)
     * [💱 Economía](polaris/introduccion/modelo-de-negocio/economia.md)
     * [📡 Estrategia ](polaris/introduccion/modelo-de-negocio/estrategia.md)
