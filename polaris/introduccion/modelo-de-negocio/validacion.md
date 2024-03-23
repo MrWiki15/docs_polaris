@@ -25,7 +25,11 @@ Esto a su ves a provocado que la tecnología Blockchain cada ves sea mas demanda
 
 ### Competencia
 
-Qsoft se enfrenta a una competencia significativa de empresas como . Sin embargo, lo que distingue a Qsoft es su enfoque en la creación de páginas web y aplicaciones multiplataforma, así como su producto Polaris, un ecosistema de utilidades creado para la comunidad web3 Este enfoque único y especializado puede dar a Qsoft una ventaja competitiva en el mercado.
+Qsoft se enfrenta a una competencia significativa de empresas a nivel nacional como:
+
+1. <mark style="color:yellow;">**Dofleini Software**</mark>**:** Una empresa ya con bastante reputación en el mercado cubano, realizando trabajos para medio de comunicacion bastante relevantes a nivel nacional como CubaDebate&#x20;
+
+. Sin embargo, lo que distingue a Qsoft es su enfoque en la creación de páginas web y aplicaciones multiplataforma, así como su producto Polaris, un ecosistema de utilidades creado para la comunidad web3 Este enfoque único y especializado puede dar a Qsoft una ventaja competitiva en el mercado.
 
 ***
 
