@@ -1,5 +1,7 @@
 # 🪙 PoliCoins
 
+
+
 PoliCoin es la moneda ficticia utilizada dentro del ecosistema de Polaris. Su propósito principal es fomentar la participación activa de los usuarios a través de la aplicación móvil de Polaris, especialmente en los diversos minijuegos disponibles. Estos tokens están diseñados para crear un sistema de recompensas que motive a los usuarios a interactuar con la plataforma de manera regular y atractiva.
 
 > <mark style="color:orange;">**Misión**</mark>**:** La misión de los PoliCoins es incentivar la participación y el compromiso de los usuarios dentro de la aplicación de Polaris. Al ofrecer una moneda virtual que se puede ganar a través de actividades divertidas y desafiantes, se busca crear una experiencia gratificante para los usuarios, lo que a su vez contribuye al crecimiento y la vitalidad del ecosistema.
