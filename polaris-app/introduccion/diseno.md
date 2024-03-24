@@ -72,18 +72,6 @@ A continuación presentamos la evolución de la UI de Polaris, desarrollada por 
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2024-03-20 at 15.56.08 (2).jpeg" alt=""><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-03-20 at 15.56.22 (1).jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-03-20 at 15.56.15 (1).jpeg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-03-20 at 15.56.46 (1).jpeg" alt=""><figcaption></figcaption></figure>
-
 </div>
 
 #### Producto Final:

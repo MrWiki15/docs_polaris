@@ -19,7 +19,7 @@ Para llegar a una correcta valoracion de nuestra competencia tenemos que ver y a
 
 ### Paso 0
 
-A la hora de analizar la competencia que podría tener en el mercado un producto o un servicio, lo primero que deberíamos hacer es detectar a dicha competencia. Y después de semanas investigando el sector. Encontramos alrededor de 139 posibles competidores:
+A la hora de analizar la competencia que podría tener en el mercado un producto o un servicio, lo primero que deberíamos hacer es detectar a dicha competencia. Y después de semanas investigando el sector. Encontramos alrededor de 239 posibles competidores:
 
 #### Internacionales&#x20;
 
