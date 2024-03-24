@@ -1,6 +1,24 @@
-# 📌 Introducción
+---
+cover: >-
+  ../../.gitbook/assets/comercio-movil-cripto-bitcoin-aislado-sobre-fondo-rosa-criptomoneda-virtual-negocio-financiero-indice-financiero-creciente-concepto-ahorro-dinero-icono-3d-ilustracion-dibujos-animados-minimo_473922-565.avif
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-<figure><img src="../../.gitbook/assets/image-removebg-preview_(20)-transformed.jpeg" alt=""><figcaption></figcaption></figure>
+# 📌 Introducción
 
 La aplicación móvil de Polaris es la piedra angular del ecosistema, proporcionando a los usuarios una puerta de entrada conveniente y accesible a las herramientas y servicios ofrecidos por el proyecto. Diseñada con una interfaz intuitiva y funciones poderosas, la aplicación móvil de Polaris se alinea con la misión del proyecto de simplificar y mejorar la experiencia de la comunidad Web3.
 

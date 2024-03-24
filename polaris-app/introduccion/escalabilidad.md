@@ -1,2 +1,0 @@
-# ⛰️ Escalabilidad&#x20;
-

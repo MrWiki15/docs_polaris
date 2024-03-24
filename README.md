@@ -1,6 +1,9 @@
-# 📌 Introducción
+---
+cover: .gitbook/assets/Proyecto nuevo(14).png
+coverY: 0
+---
 
-<figure><img src=".gitbook/assets/Proyecto nuevo(14).png" alt=""><figcaption><p>Creado por constructores y para constructores</p></figcaption></figure>
+# 📌 Introducción
 
 ### Polaris es un ecosistema de utilidades para la comunidad Web3 desarrollado por [Qsoft Development Team](https://cusoft.tech), un equipo de creación y desarrollo de Software cubano.
 

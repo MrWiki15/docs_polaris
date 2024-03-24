@@ -26,15 +26,11 @@ Esto a su ves a provocado que la tecnología Blockchain cada ves sea mas demanda
 
 Qsoft se enfrenta a una competencia significativa de empresas a nivel nacional como:
 
-[<mark style="color:yellow;">**Dofleini Software**</mark>**:**](https://www.dofleini.com/es/) Una empresa ya con bastante reputación en el mercado cubano, realizando trabajos para medio de comunicación bastante relevantes a nivel nacional como CubaDebate.
+[<mark style="color:yellow;">**Dofleini Software**</mark>**:**](https://www.dofleini.com/es/) Una empresa ya con bastante reputación en el mercado cubano, realizando trabajos para medio de comunicación bastante relevantes en Cuba como CubaDebate.
 
 Y a nivel internacional, también tenemos competidores dentro del sector hispano mencionados anteriormente en [Modelo de Negocio](./).
 
-{% hint style="info" %}
-Mas informacion sobre nuestra competencia en [Competencia](competencia.md).&#x20;
-{% endhint %}
-
-Sin embargo, lo que distingue a Qsoft es su enfoque en la creación de páginas web y aplicaciones multiplataforma basadas en tecnología Blockchain, así como nuestro producto Polaris, un ecosistema de utilidades creado para la comunidad Web3. Este enfoque único y especializado puede dar a Qsoft una ventaja competitiva en el mercado.
+Sin embargo, lo que distingue a Qsoft es su enfoque en la creación de páginas web y aplicaciones multiplataforma basadas en tecnología Blockchain, así como nuestro producto Polaris, un ecosistema de utilidades creado para la comunidad Web3. Este enfoque único y especializado puede darnos una ventaja competitiva en el mercado.
 
 ***
 
@@ -64,14 +60,8 @@ Y nuestro ecosistema sera nuestro caballo de Troya, el producto - comunidad y ut
 
 ### Capacidad de Ejecución
 
-Qsoft parece tener un equipo sólido y los recursos necesarios para entregar sus servicios de manera eficiente y efectiva. Sin embargo, no se encontraron detalles específicos sobre el tamaño o la composición de su equipo.
+Después de estar meses trabajando juntos como equipo, en Qsoft hemos alcanzado un punto de sinergia increíblemente alto. Ademas de que al cada uno de especializarse en un área distinta podemos ser mas eficientes en el trabajo y dividir cada uno de nuestros trabajos en micropiezas que vamos resolviendo pedazo a pedazo hasta resolver el problema completo y solucionar el rompecabezas.
 
 ***
 
-### Crecimiento de los Servicios Basados en Blockchain y Solidity
-
-[El mercado de la tecnología blockchain está creciendo rápidamente, con un tamaño de mercado global que se espera que crezca a una tasa compuesta anual (CAGR) del 87.7% de 2023 a 2030](https://www.grandviewresearch.com/industry-analysis/blockchain-technology-market)[5](https://www.grandviewresearch.com/industry-analysis/blockchain-technology-market)[17](https://www.fortunebusinessinsights.com/industry-reports/blockchain-market-100072)[18](https://www.statista.com/statistics/1319369/global-blockchain-technology-market-size/). [Además, Solidity, el lenguaje de programación utilizado para escribir contratos inteligentes en Ethereum, también ha experimentado un crecimiento significativo](https://medium.com/@solidity101/exploring-the-future-of-solidity-a-journey-into-experimental-solidity-5c677c8d8308)[7](https://medium.com/@solidity101/exploring-the-future-of-solidity-a-journey-into-experimental-solidity-5c677c8d8308)[19](https://www.plexusrs.com/growth-solidity-developer-salary/)[20](https://www.linkedin.com/advice/0/how-did-solidity-emerge-dominant-language-smart-contracts).
-
-***
-
-En resumen, Qsoft parece estar bien posicionado para aprovechar las tendencias actuales en el desarrollo de software y la tecnología blockchain. Su enfoque en la creación de soluciones de alta calidad, su estrategia de marketing proactiva y su capacidad para ofrecer servicios a un costo competitivo debido a su ubicación en Cuba son todos factores que podrían contribuir a su éxito a largo plazo.
+En resumen, en Qsoft estamos totalmente preparados para aprovechar las tendencias actuales en el desarrollo de software y la tecnología blockchain. Nuestro enfoque en la creación de soluciones de alta calidad, estrategia de marketing proactiva y capacidad para ofrecer servicios a un costo competitivo debido a nuestra ubicación en Cuba son todos factores que contribuirán al éxito al largo plazo.

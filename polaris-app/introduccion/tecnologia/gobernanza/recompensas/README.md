@@ -7,7 +7,7 @@ Las recompensas por participar en el ecosistema Polaris se diseñan para proporc
 ***
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="PoliCoins" %}
 <figure><img src="../../../../../.gitbook/assets/Proyecto nuevo (11).webp" alt=""><figcaption></figcaption></figure>
 
 > <mark style="color:blue;">**Descripción**</mark>**:** PoliCoins son tokens ficticios que los usuarios pueden ganar participando en minijuegos dentro de la aplicación móvil de Polaris.
@@ -44,6 +44,6 @@ Las recompensas por participar en el ecosistema Polaris se diseñan para proporc
 {% endtab %}
 {% endtabs %}
 
-1. ***
+***
 
 En conjunto, estas recompensas ofrecen una variedad de incentivos y beneficios para los usuarios que participan en el ecosistema Polaris, fomentando así su compromiso y lealtad a largo plazo. Desde la diversión de ganar PoliCoins en minijuegos hasta la emoción de canjear Stars por descuentos y diferentes productos, el sistema de recompensas de Polaris está diseñado para ofrecer una experiencia gratificante y atractiva para todos los usuarios.
