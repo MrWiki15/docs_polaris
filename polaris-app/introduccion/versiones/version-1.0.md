@@ -5,3 +5,4 @@
 * [x] Mostrar información básica y detallada de la Blockchain de Hive.
 * [x] Mostrar información detallada de un usuario en la Blockchain de Hive.
 * [ ] Realizar un análisis detallado de un usuario en la Blockchain de Hive.
+* [ ] Desarrollo de los minijuegos PoliGames.
