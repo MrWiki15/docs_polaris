@@ -1,2 +1,0 @@
-# 💳 Recompensas&#x20;
-

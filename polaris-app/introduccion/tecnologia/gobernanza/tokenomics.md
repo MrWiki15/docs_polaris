@@ -1,2 +1,0 @@
-# 💲 Tokenomics&#x20;
-
