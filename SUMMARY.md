@@ -46,7 +46,6 @@
       * [🔨 Utilidades ](polaris/introduccion/blockchains/cardano/utilidades/README.md)
         * [🐕‍🦺 NFT Tracker](polaris/introduccion/blockchains/cardano/utilidades/nft-tracker.md)
         * [💱 Poli Swap](polaris/introduccion/blockchains/cardano/utilidades/poli-swap.md)
-        * [🕹️ PoliGames](polaris/introduccion/blockchains/cardano/utilidades/poligames.md)
         * [🔩 Dev Kit](polaris/introduccion/blockchains/cardano/utilidades/dev-kit.md)
     * [⁉️ BTC ?](polaris/introduccion/blockchains/btc.md)
   * [🗺️ RoadMap](polaris/introduccion/roadmap.md)

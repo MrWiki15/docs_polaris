@@ -23,5 +23,5 @@ Siendo Hedera la primera Blockchain en la que podrás buscar información dentro
 * [ ] Hacer Trading con cualquier NFT del Mercado.
 
 {% hint style="info" %}
-Este ultimo solo dispobnible para la Blockchain de [Hedera](../), [Solana](../../solana/) y [Cardano](../../cardano/)
+Este ultimo solo disponible para la Blockchain de [Hedera](../), [Solana](../../solana/) y [Cardano](../../cardano/)
 {% endhint %}
