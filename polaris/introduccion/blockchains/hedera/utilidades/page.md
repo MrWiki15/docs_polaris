@@ -19,8 +19,6 @@ Siendo Hedera la primera Blockchain en la que podrás buscar información dentro
 * [ ] Realizar informe completo del mercado. (Crypto & NFTs)
 * [ ] Realizar búsqueda de gemas del mercado. (Crypto & NFTs)
 * [ ] Realizar informe de gemas del mercado. (Crypto & NFTs)
-* [ ] Hacer Trading con cualquier criptomoneda del mercado.
-* [ ] Hacer Trading con cualquier NFT del Mercado.
 
 {% hint style="info" %}
 Este ultimo solo disponible para la Blockchain de [Hedera](../), [Solana](../../solana/) y [Cardano](../../cardano/)
