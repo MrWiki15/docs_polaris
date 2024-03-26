@@ -37,7 +37,6 @@
       * [📌 Introducción ](polaris/introduccion/blockchains/solana/introduccion.md)
       * [📍 Objetivos](polaris/introduccion/blockchains/solana/objetivos.md)
       * [🔨 Utilidades ](polaris/introduccion/blockchains/solana/utilidades/README.md)
-        * [📖 Portafolio](polaris/introduccion/blockchains/solana/utilidades/portafolio.md)
         * [™️ NFT Tracker](polaris/introduccion/blockchains/solana/utilidades/nft-tracker.md)
         * [🐕‍🦺 Rastreador ](polaris/introduccion/blockchains/solana/utilidades/rastreador.md)
         * [🔩 Development kit](polaris/introduccion/blockchains/solana/utilidades/development-kit.md)
@@ -45,7 +44,6 @@
       * [📌 Introducción ](polaris/introduccion/blockchains/cardano/introduccion.md)
       * [📍 Objetivos ](polaris/introduccion/blockchains/cardano/objetivos.md)
       * [🔨 Utilidades ](polaris/introduccion/blockchains/cardano/utilidades/README.md)
-        * [📖 Portafolio ](polaris/introduccion/blockchains/cardano/utilidades/portafolio.md)
         * [🐕‍🦺 NFT Tracker](polaris/introduccion/blockchains/cardano/utilidades/nft-tracker.md)
         * [💱 Poli Swap](polaris/introduccion/blockchains/cardano/utilidades/poli-swap.md)
         * [🕹️ PoliGames](polaris/introduccion/blockchains/cardano/utilidades/poligames.md)
@@ -127,28 +125,11 @@
   * [🛡️ Anime Sempai](polaris-web/introduccion/anime-sempai.md)
   * [🛡️ Landing Pages](polaris-web/introduccion/landing-pages.md)
 
-## 🕴️ Polaris Kit
-
-* [📌 Introducción](polaris-kit/introduccion/README.md)
-  * [✒️ Diseño](polaris-kit/introduccion/diseno.md)
-  * [🧑‍💻 Tecnología](polaris-kit/introduccion/tecnologia.md)
-  * [🛠️ Herramientas](polaris-kit/introduccion/herramientas/README.md)
-    * [🔍 Buscador](polaris-kit/introduccion/herramientas/buscador.md)
-    * [🐕 Rastreador](polaris-kit/introduccion/herramientas/rastreador.md)
-    * [🌲 Árbol Familiar](polaris-kit/introduccion/herramientas/arbol-familiar.md)
-
 ## 💻 Polaris Desktop
 
 * [📌 Introducción](polaris-desktop/introduccion/README.md)
   * [✒️ Diseño](polaris-desktop/introduccion/diseno.md)
   * [🧑‍💻 Tecnología](polaris-desktop/introduccion/tecnologia.md)
-
-## 🎓 Polaris portal
-
-* [📌 Introducción](polaris-portal/introduccion/README.md)
-  * [✒️ Diseño](polaris-portal/introduccion/diseno.md)
-  * [🧑‍💻 Tecnología](polaris-portal/introduccion/tecnologia.md)
-  * [🌋 Funcionamiento](polaris-portal/introduccion/funcionamiento.md)
 
 ## 📰 Social
 
