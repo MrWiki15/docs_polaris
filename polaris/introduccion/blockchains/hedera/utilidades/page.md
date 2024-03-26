@@ -8,7 +8,20 @@ Siendo Hedera la primera Blockchain en la que podrás buscar información dentro
 
 ***
 
-### Dentro de esta podras:
+### Dentro de esta podrás:
 
 * [ ] Ver el rendimiento de la wallet conectada.
-* [ ] Ver el rendimiento
+* [ ] Realizar informe sobre la wallet conectada.
+* [ ] Ver los familiares de la wallet conectada.
+* [ ] Ver el rendimiento de los familiares de la wallet.
+* [ ] Realizar informe de cualquier familiar de la wallet conectada.
+* [ ] Ver el rendimiento del mercado.
+* [ ] Realizar informe completo del mercado. (Crypto & NFTs)
+* [ ] Realizar búsqueda de gemas del mercado. (Crypto & NFTs)
+* [ ] Realizar informe de gemas del mercado. (Crypto & NFTs)
+* [ ] Hacer Trading con cualquier criptomoneda del mercado.
+* [ ] Hacer Trading con cualquier NFT del Mercado.
+
+{% hint style="info" %}
+Este ultimo solo dispobnible para la Blockchain de [Hedera](../), [Solana](../../solana/) y [Cardano](../../cardano/)
+{% endhint %}

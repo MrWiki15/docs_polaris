@@ -1,6 +1,6 @@
 # 📦 Dropshipping
 
-<figure><img src="../../../../../.gitbook/assets/d1--1--3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3).webp" alt=""><figcaption></figcaption></figure>
 
 El dropshipping en el ecosistema Polaris ofrece a los usuarios la oportunidad de adquirir productos con un gran valor cultural en Cuba y ganar dinero al revenderlos en sus propias tiendas en línea. El proceso funciona de la siguiente manera:
 
