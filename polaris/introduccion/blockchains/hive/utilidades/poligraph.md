@@ -1,3 +1,0 @@
-# 📡 PoliGraph
-
-Hive

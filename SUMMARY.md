@@ -31,7 +31,6 @@
       * [🔨 Utilidades](polaris/introduccion/blockchains/hive/utilidades/README.md)
         * [👦 Informe por usuario](polaris/introduccion/blockchains/hive/utilidades/informe-por-usuario.md)
         * [👨‍👩‍👦‍👦 Informe por comunidad](polaris/introduccion/blockchains/hive/utilidades/informe-por-comunidad.md)
-        * [📡 PoliGraph](polaris/introduccion/blockchains/hive/utilidades/poligraph.md)
     * [⁉️ BTC ?](polaris/introduccion/blockchains/btc.md)
   * [🗺️ RoadMap](polaris/introduccion/roadmap.md)
   * [🖼️ NFTs](polaris/introduccion/nfts.md)

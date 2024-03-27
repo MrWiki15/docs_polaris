@@ -49,7 +49,7 @@ Una de las características más notables de Hive es su capacidad para procesar 
 
 Hive alberga una variedad de aplicaciones y servicios construidos sobre su blockchain. Desde blogs y redes sociales hasta juegos y aplicaciones de finanzas descentralizadas (DeFi), Hive proporciona una base sólida para una amplia gama de aplicaciones descentralizadas (dApps).
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
