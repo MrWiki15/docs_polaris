@@ -21,5 +21,5 @@ Siendo Hedera la primera Blockchain en la que podrás buscar información dentro
 * [ ] Realizar informe de gemas del mercado. (Crypto & NFTs)
 
 {% hint style="info" %}
-Este ultimo solo disponible para la Blockchain de [Hedera](../), [Solana](../../solana/) y [Cardano](../../cardano/)
+Este ultimo solo disponible para la Blockchain de [Hedera](../), [Solana](broken-reference) y [Cardano](broken-reference)
 {% endhint %}
