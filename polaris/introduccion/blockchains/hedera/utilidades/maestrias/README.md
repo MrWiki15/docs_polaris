@@ -1,6 +1,6 @@
 # 📘 Maestrías&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/Captura desde 2024-03-26 18-34-55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Captura desde 2024-03-26 18-34-55.png" alt=""><figcaption></figcaption></figure>
 
 Dentro de Polaris también podrás tener acceso a una serie de cursos en formato vídeo y escrito que de dará todo el conocimiento de un Maestro en la Blockchain.
 
