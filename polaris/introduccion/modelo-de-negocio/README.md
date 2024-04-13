@@ -16,7 +16,7 @@ No nos quedaremos esperando a que nos vengan a contactar. Nosotros directamente 
 
 > _<mark style="color:blue;">Misión</mark>:_ La misión de Polaris en este modelo de negocio es impulsar la adopción de la Web3 al proporcionar servicios de alta calidad y soluciones innovadoras. Su enfoque en el mercado hispanohablante busca llenar el vacío existente en la oferta de servicios de desarrollo de software centrados en la blockchain, brindando a las empresas y proyectos las herramientas necesarias para prosperar en este nuevo paradigma tecnológico.
 
-_Competencia:_ Aunque la competencia en el sector hispanohablante puede ser limitada en comparación con otras regiones, Polaris se enfrenta a desafíos por parte de empresas establecidas en el ámbito global y proyectos emergentes que también buscan posicionarse como líderes en la Web3 como ejemplo:
+_<mark style="color:orange;">Competencia</mark>:_ Aunque la competencia en el sector hispanohablante puede ser limitada en comparación con otras regiones, Polaris se enfrenta a desafíos por parte de empresas establecidas en el ámbito global y proyectos emergentes que también buscan posicionarse como líderes en la Web3 como ejemplo:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td><a href="https://www.youtube.com/@coleccion_nft">Coleccion NFT</a> es una empresa residente en  España que ofrece soluciones tecnologicas basadas en Blockchain. </td><td>-</td><td>5</td></tr><tr><td><a href="https://nftes.es/">NFTes</a> un proyecto que ofrece soluciones tecnologicas basadas en Blockchain para empresas y nuevos proyectos.</td><td>-</td><td>4</td></tr><tr><td><a href="https://twitter.com/WhataLab_">@WhataLab</a> un proyecto basado en la Blockchain de Hedera, el cual tambien ofrece soluciones tecnologicas.</td><td>-</td><td>3</td></tr></tbody></table>
 
@@ -32,7 +32,7 @@ Como parte de nuestra estrategia de financiación inicial y para involucrar a la
 Mas información sobre dicha colección en  ->  [NFTs](../nfts.md)
 {% endhint %}
 
-> _Misión:_ La misión de Polaris con la venta de la colección NFT es doble: por un lado, buscar financiación para impulsar el desarrollo y la expansión del ecosistema; por otro lado, fomentar la participación y la lealtad de la comunidad al ofrecer beneficios tangibles a los poseedores de NFT. Esta estrategia no solo fortalece el vínculo entre Polaris y su comunidad, sino que también promueve la adopción de las herramientas y servicios del ecosistema.
+> _<mark style="color:green;">Misión</mark>:_ La misión de Polaris con la venta de la colección NFT es doble: por un lado, buscar financiación para impulsar el desarrollo y la expansión del ecosistema; por otro lado, fomentar la participación y la lealtad de la comunidad al ofrecer beneficios tangibles a los poseedores de cada pieza. Esta estrategia no solo fortalece el vínculo entre Polaris y su comunidad, sino que también promueve la adopción de las herramientas y servicios del ecosistema.
 
 ***
 
@@ -40,7 +40,11 @@ Mas información sobre dicha colección en  ->  [NFTs](../nfts.md)
 
 Para garantizar la sostenibilidad financiera a largo plazo, Polaris también planea integrar publicidad contextualizada dentro de sus diferentes utilidades. Esta publicidad estará cuidadosamente diseñada para ofrecer valor añadido a los usuarios, evitando la intrusión y la molestia asociadas con la publicidad genérica. Al mantener la relevancia y la coherencia con el contenido y las necesidades de la comunidad Web3, Polaris busca generar ingresos adicionales sin comprometer la experiencia del usuario.
 
-> _Misión:_ La misión de Polaris en la integración de publicidad contextualizada es proporcionar una fuente de ingresos complementaria que no afecte negativamente la experiencia del usuario. Al mantener un enfoque en la calidad y la relevancia, Polaris busca generar ingresos de manera ética y sostenible, sin comprometer sus valores fundamentales de transparencia y respeto hacia la comunidad.
+{% hint style="info" %}
+Mas información sobre dicha colección en  ->  [Validacion](validacion.md)
+{% endhint %}
+
+> _<mark style="color:red;">Misión</mark>:_ La misión de Polaris en la integración de publicidad contextualizada es proporcionar una fuente de ingresos complementaria que no afecte negativamente la experiencia del usuario. Al mantener un enfoque en la calidad y la relevancia, Polaris busca generar ingresos de manera ética y sostenible, sin comprometer sus valores fundamentales de transparencia y respeto hacia la comunidad.
 
 ***
 

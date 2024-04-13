@@ -2,13 +2,25 @@
 
 <figure><img src="../../../.gitbook/assets/Canvas-02-C.jpeg" alt=""><figcaption></figcaption></figure>
 
-Para validar un modelo de negocio y determinar que sera estable y potencialmente escalable al largo plazo es necesario analizar 6 puntos principales. Los cuales generalmente suelen determinar el exito de un proyecto o empresa.
+Para validar un modelo de negocio y determinar que sera estable y potencialmente escalable al largo plazo es necesario analizar 5 puntos principales. Los cuales generalmente suelen determinar el exito de un proyecto o empresa.
 
-1. **Necesidad del mercado**: ¿Existe una demanda suficiente para los servicios de desarrollo de software, páginas web y aplicaciones móviles multiplataforma en Cuba y en el extranjero?
-2. **Competencia**: ¿Cómo se compara Qsoft con otras empresas que ofrecen servicios similares? ¿Qué los hace únicos o mejores que los demás?
-3. **Viabilidad financiera**: ¿El precio de los servicios de Qsoft es competitivo y al mismo tiempo rentable? ¿Pueden las empresas objetivo permitirse sus servicios?
-4. **Estrategia de marketing**: ¿Es efectiva su estrategia de acercarse proactivamente a los clientes y ofrecerles soluciones innovadoras?
-5. **Capacidad de ejecución**: ¿Tiene Qsoft el equipo y los recursos necesarios para entregar sus servicios de manera eficiente y efectiva?
+1. ¿ Existe una demanda suficiente para los servicios de desarrollo de software, páginas web y aplicaciones móviles multiplataforma en Cuba y en el extranjero basados en Blockchain ?&#x20;
+2. ¿ Polaris tiene la necesidad de utilizar la tecnología NFT  <mark style="color:yellow;">(activos digitales)</mark> para obtener financiación o crear una comunidad ?
+3. ¿ Que incentivo creara Polaris para que las personas compren sus activos digitales ?&#x20;
+4. ¿ Existe en el mercado la necesidad de publicidad contextualizada ?&#x20;
+5. ¿ Que incentivo creara Polaris para que las personas vean constantemente la publicidad de sus plataformas y deseen <mark style="color:yellow;">ver mas</mark> ?
+6. ¿ El precio de cada activo digital de Polaris es competitivo y al mismo tiempo rentable ?&#x20;
+7. ¿ Tiene Qsoft el equipo y los recursos necesarios para continuar desarrollando Polaris ?
+8. ¿ Que pasaría si por alguna casualidad Qsoft desaparece, el Polaris quedaría parado o tienen un plan para casos de emergencia ?
+
+***
+
+1. ¿ Cómo se compara Qsoft <mark style="color:green;">(equipo de desarrollo de Polaris)</mark> con otras empresas que ofrecen servicios o proyectos similares ?&#x20;
+2. ¿ Cual es la tendencia que ha tenido el mercado de activos digitales en los últimos 10 años, y donde se podría ubicar a Polaris ?
+3. ¿ Qué los hace únicos o mejores que los demás ?
+4. ¿ Porque debería confiar en Qsoft y que me garantiza que no abandonaran el proyecto en un futuro ?
+5. ¿ Pueden los clientes objetivo permitirse sus servicios ?
+6. ¿ Es efectiva su estrategia de acercarse proactivamente a los clientes y ofrecerles soluciones innovadoras ?
 
 ***
 
@@ -18,7 +30,17 @@ La demanda de servicios de desarrollo de software, páginas web y aplicaciones m
 
 <figure><img src="../../../.gitbook/assets/Captura desde 2024-03-23 00-40-03.png" alt=""><figcaption></figcaption></figure>
 
-Esto a su ves a provocado que la tecnología Blockchain cada ves sea mas demandada y que desarrolladores de software que creen soluciones tecnológicas basadas en Blockchain cada ves sean mas deseados.
+Esta tendencia ha generado un aumento exponencial en la demanda de tecnología Blockchain, impulsando a desarrolladores de software a crear soluciones innovadoras basadas en esta tecnología. Como resultado, las empresas están publicando un número creciente de ofertas de empleo en este campo.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+Este fenómeno refuerza la creciente demanda de servicios para la creación y desarrollo de software basado en Blockchain, una tendencia que está en constante aumento y que apenas está comenzando a despegar, convirtiéndose en una especie de bola de nieve en desarrollo.
+
+***
+
+### Activos digitales (NTFs)
+
+
 
 ***
 
@@ -40,9 +62,7 @@ Es importante tener en cuenta que la viabilidad financiera de una empresa no sol
 
 <figure><img src="../../../.gitbook/assets/Captura desde 2024-03-23 01-51-08.png" alt=""><figcaption></figcaption></figure>
 
-Lo que equivale a aproximadamente 14 dólares estadounidenses al mes, considerando la tasa de cambio actual de 300 pesos por 1 dólar estadounidense. Esto significa que Qsoft puede ofrecer servicios a un costo significativamente más bajo que sus competidores internacionales, lo que provocara que nuestros servicios sean más atractivos para las empresas objetivo.
-
-Aparte de poder permitirnos sacar provecho de la inestabilidad financiera actual dentro del país.&#x20;
+Lo que equivale a aproximadamente 14 dólares estadounidenses al mes, considerando la tasa de cambio actual de 300 pesos por 1 dólar estadounidense. Esto significa que Qsoft puede ofrecer servicios a un costo significativamente más bajo que sus competidores internacionales, lo que provocara que nuestros servicios sean más atractivos para las empresas objetivo. Aparte de poder permitirnos sacar provecho de la inestabilidad financiera actual dentro del país.&#x20;
 
 ***
 
