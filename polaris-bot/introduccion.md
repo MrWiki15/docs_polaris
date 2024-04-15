@@ -1,6 +1,6 @@
 # 📌 Introducción
 
-{% embed url="https://youtu.be/dCpOR4-9vdY?si=NtjkIiv3snrk3bUM" %}
+{% embed url="https://youtu.be/36ILJMIvG5s?si=6XrtczghZvr-xrKj" %}
 
 El bot de <mark style="color:blue;">Discord</mark> de Polaris representa una extensión poderosa del ecosistema, diseñada para facilitar la interacción y proporcionar herramientas útiles dentro de la comunidad Web3. Concebido con un enfoque en la accesibilidad, la utilidad y la participación de la comunidad, el bot de Discord de Polaris se posiciona como un compañero indispensable para aquellos que buscan explorar y participar en el mundo de la Web3 a través de Discord.
 
