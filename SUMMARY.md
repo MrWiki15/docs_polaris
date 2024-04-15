@@ -43,22 +43,6 @@
 
 * [📌 Introducción](polaris-extencion/introduccion.md)
 
-## 🌐 Polaris Web
-
-* [📌 Introducción ](polaris-web/introduccion/README.md)
-  * [🛡️ ChainDocs](polaris-web/introduccion/chaindocs.md)
-  * [🛡️ Blockchain Devs](polaris-web/introduccion/blockchain-devs.md)
-  * [🛡️ IA Universe](polaris-web/introduccion/ia-universe.md)
-  * [🛡️ Ecommerce Devs](polaris-web/introduccion/ecommerce-devs.md)
-  * [🛡️ Anime Sempai](polaris-web/introduccion/anime-sempai.md)
-  * [🛡️ Landing Pages](polaris-web/introduccion/landing-pages.md)
-
-## 💻 Polaris Desktop
-
-* [📌 Introducción](polaris-desktop/introduccion/README.md)
-  * [✒️ Diseño](polaris-desktop/introduccion/diseno.md)
-  * [🧑‍💻 Tecnología](polaris-desktop/introduccion/tecnologia.md)
-
 ## 📰 Social
 
 * [🐦 Twitter](https://twitter.com/PolarisWeb3)
