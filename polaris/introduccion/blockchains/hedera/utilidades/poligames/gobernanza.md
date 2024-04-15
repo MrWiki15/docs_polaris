@@ -1,2 +1,0 @@
-# 🪙 Gobernanza&#x20;
-

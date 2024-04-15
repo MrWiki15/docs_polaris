@@ -1,2 +1,0 @@
-# ™️ Tendencias&#x20;
-

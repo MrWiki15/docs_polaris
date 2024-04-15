@@ -1,2 +1,0 @@
-# 🦮 Rastreador&#x20;
-

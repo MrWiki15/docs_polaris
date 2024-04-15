@@ -1,2 +1,0 @@
-# 📚 Aprendizaje&#x20;
-

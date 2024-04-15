@@ -1,2 +1,0 @@
-# 👨‍👩‍👦‍👦 Informe por comunidad
-

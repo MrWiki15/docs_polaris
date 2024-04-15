@@ -1,6 +1,6 @@
 # 📖 Portafolio&#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/Captura desde 2024-03-26 17-05-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Captura desde 2024-03-26 17-05-19.png" alt=""><figcaption></figcaption></figure>
 
 Siendo una de las utilidades principales del ecosistema Polaris, en el portafolio dentro de nuestra aplicación tendrás diversas herramientas que te permitirán tener un seguimiento profundo de tus inversiones dentro del ecosistema.
 
@@ -11,6 +11,8 @@ Siendo Hedera la primera Blockchain en la que podrás buscar información dentro
 ### Dentro de esta podrás:
 
 * [ ] Ver el rendimiento de la wallet conectada.
+* [ ] Navegar por mapa de calor de colecciones NFTs (Hispanas & Inglesas)
+* [ ] Realizar informe de comunidad de colecciones NFTs (Hispana & Inglesas)
 * [ ] Realizar informe sobre la wallet conectada.
 * [ ] Ver los familiares de la wallet conectada.
 * [ ] Ver el rendimiento de los familiares de la wallet.
@@ -21,5 +23,5 @@ Siendo Hedera la primera Blockchain en la que podrás buscar información dentro
 * [ ] Realizar informe de gemas del mercado. (Crypto & NFTs)
 
 {% hint style="info" %}
-Este ultimo solo disponible para la Blockchain de [Hedera](../../), [Solana](broken-reference) y [Cardano](broken-reference)
+Este ultimo solo disponible para la Blockchain de [Hedera](../).
 {% endhint %}
