@@ -1,2 +1,0 @@
-# ✅ Validación&#x20;
-

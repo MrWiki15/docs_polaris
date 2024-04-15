@@ -1,2 +1,0 @@
-# 🪧 Interoperabilidad&#x20;
-

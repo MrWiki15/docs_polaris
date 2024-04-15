@@ -1,7 +1,6 @@
 # 🏗️ Beta
 
 * [ ] Introducción a Hedera.
-* [ ] Desarrollo de la coleccion [NFT](../../../polaris/introduccion/nfts.md) en Hedera.
 * [ ] Desarrollo del Portafolio en Hedera.
 * [ ] Desarrollo de los PoliGames en Hedera.
 * [ ] Desarrollo de los Materiales en Hedera.

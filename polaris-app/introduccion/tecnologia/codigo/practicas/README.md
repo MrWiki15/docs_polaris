@@ -6,7 +6,7 @@ En Qsoft nos preocupamos de que nuestro código sea totalmente reutilizable, y p
 
 ***
 
-1. [<mark style="color:blue;">**Estructura del Proyecto**</mark><mark style="color:blue;">:</mark> ](estructura-del-proyecto.md)Una estructura de proyecto bien organizada que facilite la navegación y el mantenimiento del código al proporcionar una ubicación clara para cada archivo y carpeta relacionados con el proyecto.
+1. [<mark style="color:blue;">**Estructura del Proyecto**</mark><mark style="color:blue;">:</mark> ](broken-reference)Una estructura de proyecto bien organizada que facilite la navegación y el mantenimiento del código al proporcionar una ubicación clara para cada archivo y carpeta relacionados con el proyecto.
 2. [<mark style="color:purple;">**Componentización**</mark><mark style="color:purple;">:</mark> ](componentizacion.md)Dividir la interfaz de usuario en componentes reutilizables permite un desarrollo más modular y escalable, lo que facilita la adición de nuevas características y la corrección de errores.
 3. <mark style="color:orange;">**Gestión de Estado**</mark><mark style="color:orange;">:</mark> Utilizar herramientas de gestión de estado adecuadas ayuda a mantener el estado de la aplicación mobil de Polaris de manera consistente en toda la aplicación, lo que facilita el seguimiento de los cambios y la depuración de problemas relacionados con el estado.
 4. <mark style="color:red;">**Immutabilidad**</mark><mark style="color:red;">:</mark> El uso de estructuras de datos inmutables garantiza que los datos no se modifiquen accidentalmente, lo que ayuda a prevenir errores difíciles de rastrear y a mejorar la estabilidad de la aplicación.

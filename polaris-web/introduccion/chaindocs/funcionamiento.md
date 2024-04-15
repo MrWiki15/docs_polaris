@@ -1,2 +1,0 @@
-# 📠 Funcionamiento&#x20;
-

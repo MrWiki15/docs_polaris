@@ -1,2 +1,0 @@
-# 🏦 Modelo de negocio
-
