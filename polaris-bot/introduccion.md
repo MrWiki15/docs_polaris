@@ -2,20 +2,14 @@
 
 {% embed url="https://youtu.be/36ILJMIvG5s?si=6XrtczghZvr-xrKj" %}
 
-El bot de <mark style="color:blue;">Discord</mark> de Polaris representa una extensión poderosa del ecosistema, diseñada para facilitar la interacción y proporcionar herramientas útiles dentro de la comunidad Web3. Concebido con un enfoque en la accesibilidad, la utilidad y la participación de la comunidad, el bot de Discord de Polaris se posiciona como un compañero indispensable para aquellos que buscan explorar y participar en el mundo de la Web3 a través de Discord.
+The Polaris <mark style="color:yellow;">Discord</mark> bot represents a powerful extension of the ecosystem, designed to facilitate <mark style="color:yellow;">interaction</mark> and <mark style="color:yellow;">provide</mark> useful tools within the Web3 community. Conceived with a focus on <mark style="color:yellow;">accessibility</mark>, <mark style="color:yellow;">usability</mark> and community participation, the Polaris Discord bot is positioned as an indispensable companion for those <mark style="color:yellow;">looking</mark> to <mark style="color:yellow;">explore</mark> and participate in the Web3 world through Discord.
 
 ***
 
-### **Razón de la Creación:**
+### Reason for Creation:
 
-El bot de <mark style="color:blue;">Discord</mark> de Polaris nace de la necesidad de proporcionar a la comunidad Web3 una plataforma centralizada para acceder a información, herramientas y recursos relevantes de manera conveniente y accesible. Con Discord como uno de los principales canales de comunicación y colaboración en la comunidad, el bot de Polaris busca enriquecer la experiencia de los usuarios al ofrecer una amplia gama de funciones y utilidades directamente dentro de la plataforma.
+The Polaris <mark style="color:yellow;">Discord bot</mark> was born out of the <mark style="color:yellow;">need to provide the Web3</mark> community with a decentralized platform to access <mark style="color:yellow;">relevant information</mark>, <mark style="color:yellow;">tools</mark> and resources in a <mark style="color:yellow;">convenient and accessible</mark> way. With Discord as one of the main channels of <mark style="color:yellow;">communication</mark> and <mark style="color:yellow;">collaboration</mark> in the community, the Polaris bot seeks to enrich the user experience by offering a wide range of functions and <mark style="color:yellow;">utilities</mark> directly within the platform.
 
-**Objetivos del Bot:**
-
-1. **Facilitar el Acceso a la Información:** El bot de Discord de Polaris está diseñado para proporcionar a los usuarios acceso instantáneo a información relevante sobre precios de criptomonedas, estadísticas de blockchain y otros datos importantes directamente desde Discord.
-2. **Brindar Herramientas Útiles:** Además de la información, el bot de Polaris ofrece herramientas útiles como una calculadora de criptomonedas, conversor de precios y otras utilidades que facilitan la interacción y la toma de decisiones en el mundo de la Web3.
-3. **Fomentar la Participación:** A través de funciones de comunidad como juegos, encuestas y eventos especiales, el bot de Polaris busca fomentar la participación y la interacción entre los miembros de la comunidad, creando un sentido de pertenencia y camaradería.
-
-> La misión del bot de Discord de Polaris es servir como un recurso invaluable para la comunidad Web3, proporcionando herramientas, información y entretenimiento que inspiren, eduquen y empoderen a los usuarios en su viaje hacia la adopción y participación en la Web3. Al ofrecer una experiencia rica y diversa dentro de Discord, el bot de Polaris busca fortalecer la comunidad y promover el crecimiento y la prosperidad en el ecosistema descentralizado.
-
-En resumen, el bot de <mark style="color:blue;">Discord</mark> de Polaris es mucho más que una simple herramienta; es un compañero indispensable en el viaje de la comunidad hacia un futuro descentralizado y equitativo en la Web3. Con su enfoque en la accesibilidad, la utilidad y la participación, el bot de Polaris se posiciona como un activo invaluable para aquellos que buscan explorar y participar en el emocionante mundo de la Web3 a través de Discord.
+{% hint style="info" %}
+Once the Discord bot BETA is released, it will be 100% open source. This with the objective that other projects or developers can support and help to evolve our bot.
+{% endhint %}

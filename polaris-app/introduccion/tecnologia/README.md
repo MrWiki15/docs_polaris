@@ -2,34 +2,34 @@
 
 <figure><img src="../../../.gitbook/assets/React-Native-Titre.png" alt=""><figcaption></figcaption></figure>
 
-React Native es la tecnología elegida para impulsar la aplicación móvil de Polaris. Es un marco de desarrollo de código abierto creado por <mark style="color:yellow;">Facebook</mark> que permite construir aplicaciones móviles nativas utilizando JavaScript y React, una biblioteca de interfaz de usuario también desarrollada por Facebook. React Native ha ganado popularidad en la comunidad de desarrollo de aplicaciones móviles debido a su eficiencia, versatilidad y capacidad para crear aplicaciones de alta calidad tanto para iOS como para Android desde una base de código compartida.
+React Native is the <mark style="color:yellow;">technology</mark> chosen to power the Polaris <mark style="color:yellow;">mobile app</mark>. It is an open source development <mark style="color:yellow;">framework</mark> created by <mark style="color:yellow;">Facebook</mark> that allows you to build native mobile apps using <mark style="color:yellow;">JavaScript</mark> and React, a user interface library also developed by <mark style="color:yellow;">Facebook</mark>. React Native has gained popularity in the mobile app development community due to its <mark style="color:yellow;">efficiency</mark>, <mark style="color:yellow;">versatility</mark> and <mark style="color:yellow;">ability to create high-quality apps</mark> for both iOS and Android from a shared code base.
 
 ***
 
-### **¿Qué es React Native y cómo funciona?**
+### What is React Native and how does it work?
 
-React Native es una tecnología de desarrollo de aplicaciones móviles que permite a los desarrolladores crear aplicaciones nativas utilizando componentes de interfaz de usuario declarativos y un enfoque basado en componentes. Utiliza JavaScript como lenguaje de programación, lo que facilita la creación de aplicaciones móviles utilizando un conocimiento previo de esta tecnología.'
+React Native is a <mark style="color:yellow;">mobile app development technology</mark> that allows developers to create <mark style="color:yellow;">native apps</mark> using declarative UI components and a <mark style="color:yellow;">component-based approach</mark>. It uses <mark style="color:yellow;">JavaScript</mark> as a programming language, which makes it easy to create mobile apps using prior knowledge of this technology.
 
 <figure><img src="../../../.gitbook/assets/1_CqdjpxWBddfSSGsnnitkwQ.png" alt=""><figcaption></figcaption></figure>
 
-Funciona mediante la compilación de componentes de React en componentes nativos de iOS y Android, lo que permite que las aplicaciones creadas con React Native tengan un rendimiento similar al de las aplicaciones desarrolladas de forma nativa. React Native utiliza un hilo de fondo separado para ejecutar JavaScript, lo que permite una interfaz de usuario receptiva y sin bloqueos.
+It works by compiling <mark style="color:yellow;">React</mark> components into <mark style="color:yellow;">native iOS and Android components</mark>, allowing apps <mark style="color:yellow;">built</mark> with React Native to perform <mark style="color:yellow;">similarly to natively developed apps</mark>. React Native uses a separate <mark style="color:yellow;">background thread</mark> to execute <mark style="color:yellow;">JavaScript</mark>, enabling a responsive and non-blocking user interface.
 
 ***
 
-#### **Ventajas de React Native:**
+#### Advantages of React Native:**:**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Desarrollo multiplataforma</strong></td><td>-</td><td>Permite crear aplicaciones para iOS y Android desde una sola base de código. Lo que a su ves facilita la lectura del codigo y permite u ambiente laboral saludable y escalable.</td></tr><tr><td><strong>Eficiencia y productividad</strong></td><td>-</td><td>React Native simplifica el proceso de desarrollo al permitir utilizar JavaScript, una amplia gama de bibliotecas y herramientas, y un enfoque basado en componentes.</td></tr><tr><td><strong>Rendimiento</strong></td><td>-</td><td>Las aplicaciones creadas con React Native pueden tener un rendimiento similar al de las aplicaciones nativas, gracias a la compilación de componentes en código nativo.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Cross-platform development</td><td>-</td><td>It allows you to <mark style="color:yellow;">create iOS</mark> and <mark style="color:yellow;">Android</mark> applications from a single <mark style="color:yellow;">code base</mark>. Which in turn facilitates the <mark style="color:yellow;">reading</mark> of the code and allows a <mark style="color:yellow;">healthy</mark> and <mark style="color:yellow;">scalable</mark> work environment.</td></tr><tr><td>Efficiency and productivity</td><td>-</td><td>React Native <mark style="color:yellow;">simplifies</mark> the development process by <mark style="color:yellow;">enabling JavaScript</mark>, a wide range of <mark style="color:yellow;">libraries</mark> and <mark style="color:yellow;">tools</mark>, and a <mark style="color:yellow;">component-based approach</mark>.</td></tr><tr><td>Performance</td><td>-</td><td>Apps built with React Native can have <mark style="color:yellow;">performance</mark> similar to <mark style="color:yellow;">native apps</mark>, thanks to the <mark style="color:yellow;">compilation</mark> of components in native code.</td></tr></tbody></table>
 
 
 
-**Desventajas de React Native:**
+Disadvantages of React Native:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Limitaciones nativas</strong></td><td>-</td><td>Aunque React Native permite crear aplicaciones nativas, puede haber limitaciones en algunas características y funcionalidades específicas de las plataformas.</td></tr><tr><td><strong>Dependencia de terceros</strong></td><td>-</td><td>Algunas funcionalidades pueden requerir el uso de bibliotecas de terceros, lo que puede añadir complejidad y riesgo al proyecto.</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Native limitations</td><td>-</td><td><mark style="color:yellow;">Although</mark> React Native allows you to <mark style="color:yellow;">create native apps</mark>, there may be limitations on some <mark style="color:yellow;">platform-specific features</mark> and <mark style="color:yellow;">functionality</mark>.</td></tr><tr><td>Dependence on third parties</td><td>-</td><td>Some <mark style="color:yellow;">functionality</mark> may require the <mark style="color:yellow;">use of third-party libraries</mark>, which can add <mark style="color:yellow;">complexity</mark> and <mark style="color:red;">risk</mark> to the project.</td></tr></tbody></table>
 
 ***
 
-### **Misión de Polaris utilizando React Native:**
+### Polaris mission using React Native:
 
-> La elección de React Native para desarrollar la aplicación móvil de Polaris refleja la misión del proyecto de proporcionar una experiencia de usuario de alta calidad y accesible para la comunidad Web3. Al utilizar React Native, buscamos aprovechar las ventajas de eficiencia, productividad y rendimiento de esta tecnología para ofrecer una aplicación móvil intuitiva y potente que satisfaga las necesidades de los usuarios en iOS y Android.
+> By using React Native, we seek to <mark style="color:yellow;">leverage</mark> the <mark style="color:yellow;">efficiency</mark>, <mark style="color:yellow;">productivity</mark> and <mark style="color:yellow;">performance</mark> advantages of this technology to deliver an <mark style="color:yellow;">intuitive</mark> and <mark style="color:yellow;">powerful</mark> mobile app that meets the <mark style="color:yellow;">needs</mark> of users on iOS and Android.
 
-Además, al optar por React Native, Polaris se posiciona para aprovechar la comunidad activa y las amplias herramientas y bibliotecas disponibles para esta tecnología, lo que facilita el desarrollo y la evolución continua de la aplicación móvil en línea con las necesidades y expectativas de la comunidad Web3.
+In addition, by opting for React Native, Polaris is <mark style="color:yellow;">positioned</mark> to take <mark style="color:yellow;">advantage</mark> of the active community and the extensive <mark style="color:yellow;">tools</mark> and <mark style="color:yellow;">libraries</mark> available for this technology, which <mark style="color:yellow;">facilitates</mark> the development and continuous <mark style="color:yellow;">evolution</mark> of the mobile application in line with the needs and <mark style="color:yellow;">expectations</mark> of the Web3 community.

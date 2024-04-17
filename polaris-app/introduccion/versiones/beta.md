@@ -1,10 +1,10 @@
-# 🏗️ Alpha
+# 🏗️ Beta
 
-* [x] Desarrollo del proyecto, Productos, Servicios, Modelo de negocio, Competencia, Estrategia, Economía.
-* [x] Desarrollo de la UI + UX completa.
-* [x] Desarrollo de la Api Rest Polaris.
-* [x] Mostrar información básica sobre los criptomonedas mas relevantes del sector.&#x20;
-* [x] Mostrar información básica sobre los NFTs mas relevantes del sector.
-* [x] Desarrollo de las Redes Sociales y comunidad.
-* [x] Búsqueda de Patrocinadores para obtener financiación.&#x20;
-* [x] Elección de la Blockchain Madre de desarrollo.
+* [x] Project development, Products, Services, Business model, Competition, Strategy, Economics.&#x20;
+* [x] Development of the UI + complete UX.&#x20;
+* [x] Development of the Api Rest Polaris.&#x20;
+* [x] Show basic information about the most relevant cryptocurrencies in the sector.
+* [x] Display basic information about the most relevant NFTs in the industry.&#x20;
+* [x] Development of Social Networks and community.&#x20;
+* [x] Search for Sponsors to obtain funding.&#x20;
+* [x] Choice of the Mother Blockchain for development.

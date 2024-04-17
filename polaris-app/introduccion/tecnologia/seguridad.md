@@ -2,36 +2,36 @@
 
 <figure><img src="../../../.gitbook/assets/seguridad-informatica-4.webp" alt=""><figcaption></figcaption></figure>
 
-Una de nuestra prioridades es asegurar la seguridad de las personas que consumen nuestros productos y Polaris no es la exepcion. Por eso para llevar a cabo la creación de la aplicación mobil seguimos ciertas practicas.
+One of our <mark style="color:yellow;">priorities</mark> is to ensure the <mark style="color:yellow;">safety</mark> of the people who consume our <mark style="color:yellow;">products</mark> and Polaris is no <mark style="color:yellow;">exception</mark>. That is why we followed certain <mark style="color:yellow;">practices</mark> in the creation of the mobile application.
 
 ***
 
-### **Autenticación Segura**
+### Secure Authentication
 
-Implementacion de un sistema de autenticación robusto, como el uso de contraseñas fuertes, autenticación de dos factores <mark style="color:purple;">(2FA)</mark> o biometría <mark style="color:purple;">(como huellas dactilares o reconocimiento facial)</mark>, para proteger el acceso a la aplicación o los datos de los usuario.
-
-***
-
-### **Transmisión de Datos Segura**
-
-Utilizamos protocolos de cifrado seguros, como <mark style="color:green;">HTTPS</mark>, para proteger la transmisión de datos entre la aplicación móvil y los servidores. Evitando el uso de conexiones no seguras que podrían exponer los datos del usuario a interceptaciones maliciosas.
+Implementation of a strong <mark style="color:yellow;">authentication</mark> system, such as the use of <mark style="color:yellow;">strong passwords</mark>, <mark style="color:yellow;">two-factor authentication (2FA)</mark> or biometrics <mark style="color:yellow;">(such as fingerprint or facial recognition)</mark>, to protect access to the application or user data.
 
 ***
 
-### **Almacenamiento de Datos Seguro**
+### Secure Data Transmission
 
-Polaris no guarda absolutamente ningún dato sensible dentro del dispositivo o sus servidores. Esto debido a que la principal funcionalidad de la aplicación es "_<mark style="color:orange;">**mostrar, recopilar y analizar información"**</mark>** ****de la Blockchain.**_
-
-***
-
-### **Actualizaciones Regulares**
-
-Mantendremos la aplicación móvil actualizada con las ultimas versiones de las tecnologías que utilizamos. Así que incitamos a nuestros usuarios a tener siempre la ultima <mark style="color:red;">versión</mark> de Polaris.
+We use secure encryption protocols, such as <mark style="color:yellow;">HTTPS</mark>, to protect data transmission between the mobile application and the servers. Avoiding the use of <mark style="color:yellow;">unsecured connections</mark> that could expose user data to <mark style="color:red;">malicious interception</mark>.
 
 ***
 
-### **Control de Acceso y Permisos**
+### Secure Data Storage
 
-La aplicación solicita permisos <mark style="color:blue;">solo cuando es necesario</mark> y nos aseguraremos de que todos nuestros usuarios estén correctamente informados sobre su uso.
+Polaris stores absolutely no sensitive data within the device or its servers. This is because the main functionality of the application is to "_<mark style="color:yellow;">**display, collect and analyze information**</mark>**"**_ from the Blockchain.
+
+***
+
+### Regular Updates
+
+We will keep the mobile application <mark style="color:yellow;">updated</mark> with the <mark style="color:yellow;">latest versions of the technologies</mark> we use. So we encourage our users to always have the latest version of Polaris.
+
+***
+
+### Access Control and Permissions
+
+The application <mark style="color:yellow;">requests permissions only when necessary</mark> and we will make sure that all our users are properly informed about its use.
 
 \

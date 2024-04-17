@@ -4,44 +4,29 @@
 
 <figure><img src="../../../.gitbook/assets/Evolucion-comunicacion-tech-600x183.jpg" alt=""><figcaption></figcaption></figure>
 
-Cada versión de la aplicación de Polaris marca un hito en la evolución del proyecto, reflejando su compromiso continuo con la innovación, la mejora y la adaptación a las necesidades cambiantes de la comunidad Web3. Con cada actualización, Polaris busca ofrecer una experiencia de usuario mejorada, nuevas funcionalidades y una mayor integración con el ecosistema descentralizado.
+With each update, Polaris seeks to offer an improved user experience, new <mark style="color:yellow;">functionalities</mark> and greater <mark style="color:yellow;">integration</mark> with the decentralized ecosystem.
 
-> **Misión:** La misión de cada versión de la aplicación de Polaris es impulsar la adopción y la participación en la Web3 al proporcionar a los usuarios una plataforma intuitiva y poderosa para explorar, interactuar y beneficiarse del mundo descentralizado. A través de actualizaciones regulares y mejoras continuas, buscamos mantenernos a la vanguardia tecnología y ofrecer soluciones innovadoras que satisfagan las necesidades emergentes de la comunidad.
-
-***
-
-### **Objetivos por Versión:**
-
-* **Versión 1.0 - Lanzamiento Inicial:**
-  * [x] Objetivo: Introducir la aplicación de Polaris en el mercado y establecer una base sólida para futuras iteraciones.
-  * [x] Mision: Ofrecer una experiencia de usuario intuitiva y funcional que permita a los usuarios explorar precios, estadísticas y gestionar sus carteras de criptomonedas de manera fácil y segura.
+> **Mission:** The mission of each release of the Polaris application is to drive adoption and participation in Web3 by providing users with an intuitive and powerful platform to explore, interact and benefit from the decentralized world. Through regular updates and continuous improvements, we seek to stay at the forefront of technology and deliver innovative <mark style="color:yellow;">solutions that meet the emerging needs of the community</mark>.
 
 ***
 
-* **Versión 2.0 - Expansión de Funcionalidades:**
-  * [ ] Objetivo: Ampliar las funcionalidades y características de la aplicación para mejorar la experiencia del usuario y aumentar su utilidad.
-  * [ ] Mision: Introducir nuevas características como herramientas de análisis avanzado, integración con exchanges y mayor personalización, con el fin de satisfacer las necesidades específicas de los usuarios más avanzados.
+### Objectives by Version:
+
+* **Version 1.0 - Initial Release:**
+
+<!---->
+
+* [ ] Goal: To <mark style="color:yellow;">introduce</mark> the Polaris application to the <mark style="color:yellow;">market</mark> and establish a <mark style="color:yellow;">solid foundation</mark> for future iterations.
+* [ ] Mission: To provide an <mark style="color:yellow;">intuitive</mark> and <mark style="color:yellow;">functional user experience</mark> that allows users to explore <mark style="color:yellow;">prices</mark>, <mark style="color:yellow;">statistics</mark> and <mark style="color:yellow;">manage their cryptocurrency portfolios easily and securely</mark>.
 
 ***
 
-* **Versión 3.0 - Integración de Nuevos Servicios:**
-  * [ ] Objetivo: Integrar nuevos servicios y herramientas dentro de la aplicación para proporcionar a los usuarios una experiencia más completa y enriquecedora.
-  * [ ] Mision: Incluir características como la integración de la colección NFT de Polaris, acceso exclusivo al portafolio y descuentos en servicios para los poseedores de NFT, y la integración de contenido educativo y recursos de capacitación para promover la adopción y la participación en la comunidad.
+* Version 1.1 - Functionality Expansion:
+  * [ ] Goal: Expand the <mark style="color:yellow;">functionalities</mark> and features of the application to improve the user experience and <mark style="color:yellow;">increase its usefulness</mark>.
+  * [ ] Mission: To introduce new features such as <mark style="color:yellow;">advanced analysis tools</mark>, integration with <mark style="color:yellow;">exchanges</mark> and further customization, in order to meet the <mark style="color:yellow;">specific needs of the most advanced users</mark>.
 
 ***
 
-* **Versión 4.0 - Enfoque en la Seguridad y la Privacidad:**
-  * [ ] Objetivo: Mejorar la seguridad y la privacidad de la aplicación para proteger los fondos y datos de los usuarios.
-  * [ ] Mision: Implementar medidas adicionales de seguridad, como autenticación de dos factores, cifrado de extremo a extremo y controles de privacidad mejorados, para garantizar la protección y la confidencialidad de la información del usuario.
-
-***
-
-* **Versión 5.0 - Enfoque en la Usabilidad y Accesibilidad:**
-  * [ ] Objetivo: Mejorar la usabilidad y accesibilidad de la aplicación para hacerla más fácil de usar para una audiencia más amplia.
-  * [ ] Mision: Realizar mejoras en la interfaz de usuario, la navegación y la experiencia general del usuario, con el objetivo de hacer que la aplicación sea más intuitiva y accesible para usuarios de todos los niveles de experiencia.
-
-***
-
-Cada versión de la aplicación de Polaris representa un paso adelante en el viaje del proyecto hacia la excelencia en la Web3. Con un enfoque en la mejora continua y la innovación constante, nos esforzaremos por ofrecer una experiencia de usuario excepcional que inspire y capacite a la comunidad en su camino hacia un futuro descentralizado y equitativo.&#x20;
-
-\
+* **Versión 1.2 - Integración de Nuevos Servicios:**
+  * [ ] Goal: <mark style="color:yellow;">Integrate</mark> new services and <mark style="color:yellow;">tools</mark> within the application to provide users with a more <mark style="color:yellow;">complete</mark> and enriching experience.
+  * [ ] Mission: To include features such as <mark style="color:yellow;">integration</mark> of the Polaris NFT collection, exclusive portfolio <mark style="color:yellow;">access</mark> and service discounts for NFT holders, and <mark style="color:yellow;">integration of educational content</mark> and training <mark style="color:yellow;">resources</mark> to promote adoption and community involvement.\
