@@ -2,4 +2,4 @@
 
 <figure><img src="../../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Con el objetivo de crear un ecosistema completo, le daremos a nuestros usuarios en Polaris una herramienta para intercambiar sus criptomonedas de forma segura. En nuestro mercado P2P podrás contactar de forma directa con otras personas y realizar intercambios con tus criptomonedas favoritas.
+In order to create a <mark style="color:yellow;">complete ecosystem</mark>, we will give our users at Polaris a tool to <mark style="color:yellow;">exchange their cryptocurrencies</mark> securely. In our <mark style="color:yellow;">P2P marketplace</mark> you will be able to directly <mark style="color:yellow;">contact other people</mark> and trade your favorite <mark style="color:yellow;">cryptocurrencies</mark>.

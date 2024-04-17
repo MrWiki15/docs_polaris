@@ -16,7 +16,7 @@ Within Polaris you will also have access to a series of <mark style="color:yello
 * [ ] Introduction to <mark style="color:yellow;">Cybersecurity</mark>.&#x20;
 * [ ] Medium course in <mark style="color:yellow;">Economics</mark>.&#x20;
 * [ ] Medium course of <mark style="color:yellow;">Finance</mark>.&#x20;
-* [ ] Courses analyzing the <mark style="color:yellow;">shortcomings</mark> of the <mark style="color:yellow;">Economic System</mark>.&#x20;
+* [ ] Courses analyzing the <mark style="color:red;">shortcomings</mark> of the <mark style="color:yellow;">Economic System</mark>.&#x20;
 * [ ] Introduction to <mark style="color:yellow;">Blockchain</mark>.&#x20;
 * [ ] <mark style="color:yellow;">Blockchain</mark> medium course.&#x20;
 * [ ] Advanced <mark style="color:yellow;">Blockchain</mark> course.&#x20;

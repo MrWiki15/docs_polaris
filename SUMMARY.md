@@ -16,7 +16,7 @@
         * [👷 Trabajos](polaris/introduction/blockchains/hedera/utilidades/trabajos.md)
         * [👪 Comunidades](polaris/introduction/blockchains/hedera/utilidades/comunidades.md)
         * [📑 P2P Mercado](polaris/introduction/blockchains/hedera/utilidades/p2p-mercado.md)
-    * [⁉️ BTC ?](polaris/introduction/blockchains/btc.md)
+    * [🏘️ Hive ](polaris/introduction/blockchains/hive.md)
   * [🗺️ RoadMap](polaris/introduction/roadmap.md)
   * [🖼️ NFTs](polaris/introduction/nfts.md)
   * [💸 Patrocinadores](polaris/introduction/patrocinadores.md)
