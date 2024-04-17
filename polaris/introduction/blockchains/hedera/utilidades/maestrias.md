@@ -2,23 +2,23 @@
 
 <figure><img src="../../../../../.gitbook/assets/Captura desde 2024-03-26 18-34-55.png" alt=""><figcaption></figcaption></figure>
 
-Dentro de Polaris también podrás tener acceso a una serie de cursos en formato vídeo y escrito que de dará todo el conocimiento de un Maestro en la Blockchain.
+Within Polaris you will also have access to a series of <mark style="color:yellow;">courses in video</mark> and <mark style="color:yellow;">written format</mark> that will give you all the knowledge of a <mark style="color:yellow;">Master in the Blockchain</mark>.
 
 ***
 
-### Que cursos encontraras en Polaris ?
+### What courses will you find at Polaris ?
 
-* [ ] Introducción básica a la Economía.
-* [ ] Introducción básica a las finanzas.
-* [ ] Introducción básica al aprendizaje tecnológico.
-* [ ] Introducción básica a las Telecomunicaciones.
-* [ ] Introducción básica al Internet.
-* [ ] Introducción a la ciberseguridad.&#x20;
-* [ ] Curso medio de Economía.
-* [ ] Curso medio de Finanzas.
-* [ ] Cursos analizando las deficiencias del sistema Economico.
-* [ ] Introducción a la Blockchain.
-* [ ] Curso medio de Blockchain.
-* [ ] Curso Avanzado de Blockchain.
-* [ ] El problema de la Blockchain.
-* [ ] Introducción a Hedera.
+* [ ] Basic introduction to <mark style="color:yellow;">Economics</mark>.&#x20;
+* [ ] Basic introduction to <mark style="color:yellow;">Finance</mark>.&#x20;
+* [ ] Basic introduction to <mark style="color:yellow;">technological learning</mark>.&#x20;
+* [ ] Basic introduction to <mark style="color:yellow;">Telecommunications</mark>.&#x20;
+* [ ] Basic introduction to the <mark style="color:yellow;">Internet</mark>.&#x20;
+* [ ] Introduction to <mark style="color:yellow;">Cybersecurity</mark>.&#x20;
+* [ ] Medium course in <mark style="color:yellow;">Economics</mark>.&#x20;
+* [ ] Medium course of <mark style="color:yellow;">Finance</mark>.&#x20;
+* [ ] Courses analyzing the <mark style="color:yellow;">shortcomings</mark> of the <mark style="color:yellow;">Economic System</mark>.&#x20;
+* [ ] Introduction to <mark style="color:yellow;">Blockchain</mark>.&#x20;
+* [ ] <mark style="color:yellow;">Blockchain</mark> medium course.&#x20;
+* [ ] Advanced <mark style="color:yellow;">Blockchain</mark> course.&#x20;
+* [ ] The <mark style="color:yellow;">Blockchain</mark> <mark style="color:red;">problem</mark>.&#x20;
+* [ ] Introduction to <mark style="color:yellow;">Hedera</mark>.

@@ -1,15 +1,16 @@
 # 📚 Materiales
 
-<figure><img src="../../../../../../.gitbook/assets/Captura desde 2024-03-26 18-15-34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Captura desde 2024-03-26 18-15-34.png" alt=""><figcaption></figcaption></figure>
 
-En la sección de materiales en Polaris podrás encontrar varios recursos de aprendizaje para poder relacionarte mejor con el ecosistema.
+In the <mark style="color:yellow;">materials</mark> section of Polaris you can find several <mark style="color:yellow;">learning resources</mark> to better interact with the ecosystem.
 
 ***
 
-### Que materiales te encontraras ?
+### What materials will you find?
 
-* [ ] **Artículos Educativos.**
-* [ ] **Videos Explicativos.**
-* [ ] **Infografías y Gráficos de interés.**
-* [ ] **Diccionario Cripto.**
-* [ ] **Preguntas Frecuentes del ecosistema.**
+* [ ] **Educational **<mark style="color:yellow;">**Articles**</mark>**.**
+* [ ] **Explanatory **<mark style="color:yellow;">**Videos**</mark>**.**
+* [ ] <mark style="color:yellow;">**Infographics**</mark>** and Graphics of interest.**
+* [ ] **Crypto **<mark style="color:yellow;">**Dictionary**</mark>**.**
+* [ ] **Frequently Asked Questions about the **<mark style="color:yellow;">**ecosystem**</mark>**.**
+
