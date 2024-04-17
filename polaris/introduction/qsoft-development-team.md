@@ -8,36 +8,22 @@ Qsoft is a team formed by 4 Cuban software developers who tried to <mark style="
 
 ### The beginnings of the team
 
-Obligados a buscar una fuente de ingresos que les facilitara la adquisición de recursos, los integrantes del equipo aun sin conocerse decidieron a una temprana edad adentrarse en el mundo tecnológico. Un sector que en ese momento estaba en constante evolución pero que a todos de cierta forma le encantaba todos los paradigmas que provocaban cada avance tecnológico.
+Forced to look for a source of income that would facilitate the acquisition of resources, the team members<mark style="color:yellow;">, even without knowing each other,</mark> decided at an early age to enter the technological world. A sector that at that time was in constant evolution but that everyone in a certain way loved all the paradigms that each technological advance provoked.
 
-Después de aproximadamente unos 4 a_ñ_os de estudio de forma independiente, el grupo de desarrolladores decidieron reunirse para ahora como <mark style="color:yellow;">equipo</mark> intentar crear ese rayo de luz e intentar, quizás, alumbrar a otros desarrolladores cubanos y del mundo.&#x20;
+After approximately 4_years_of independent study, the group of developers decided to get together as a <mark style="color:yellow;">team</mark> to try to create that ray of light and try, perhaps, to enlighten other Cuban and world developers.
 
 {% embed url="https://x.com/MrWiki15_/status/1716626992580247877?s=20" %}
 
 ***
 
-### Desarrollo
+### Qsoft's evolution over time.
 
-Y después de varias charlas y encuentros, el equipo recién creado de creación y desarrollo de software, inicialmente llamado "<mark style="color:purple;">Equipo de programación</mark>" pensado para estar focalizado en la creación de paginas webs básicas. Decidió aceptar sus primeros trabajos.&#x20;
+And after several talks and meetings, the newly created software creation and development team, initially called "<mark style="color:yellow;">Programming Team</mark>" thought to be focused on the creation of basic web pages. It decided to accept its first jobs.
 
-De esta forma, poco a poco con el plazo del tiempo, y siendo cada ves mayor la cantidad de trabajos que le llegaban al equipo, fueron aprendiendo nuevas tecnologías. Hasta llegar al punto de volverse <mark style="color:orange;">especialistas en la creación de aplicaciones multiplataformas</mark> y tener un alto control en la creación de aplicaciones webs complejas. Lo que a su ves les abrió nuevas posibilidades de empleo y sobre todo, la posibilidad de crear su primer Producto.
-
-<div>
-
-<figure><img src="../../.gitbook/assets/Proyecto nuevo (3).webp" alt=""><figcaption><p>Rip MrWiki</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Proyecto nuevo (2).webp" alt=""><figcaption><p>ano ?</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Proyecto nuevo (1).webp" alt=""><figcaption><p>El inicio</p></figcaption></figure>
-
-</div>
+In this way, little by little over time, and with the increasing amount of work that came to the team, they were learning new technologies. To the point of becoming <mark style="color:yellow;">specialists in the creation of multiplatform applications</mark> and having a high control in the creation of complex web applications. This in turn opened up new employment possibilities and above all, the possibility of creating their first product.
 
 ***
 
-### Futuro
+### What does the future hold for Qsoft ?
 
-Actualmente el equipo se encuentra en proceso de culminar el desarrollo de su primer producto, Polaris. Un ecosistema de utilidades para la comunidad Web3 con el objetivo de potenciar su modelo de negocio principal, la venta de servicios como creadores y desarrolladores de software.
+Currently the team is in the process of completing the development of its first product, <mark style="color:yellow;">Polaris</mark>. An <mark style="color:yellow;">ecosystem of utilities</mark> for the Web3 community with the objective of boosting its main business model, the sale of services as software creators and developers.

@@ -2,25 +2,23 @@
 
 <figure><img src="../../../../../.gitbook/assets/Captura desde 2024-03-26 17-05-19.png" alt=""><figcaption></figcaption></figure>
 
-Siendo una de las utilidades principales del ecosistema Polaris, en el portafolio dentro de nuestra aplicación tendrás diversas herramientas que te permitirán tener un seguimiento profundo de tus inversiones dentro del ecosistema.
-
-Siendo Hedera la primera Blockchain en la que podrás buscar información dentro de esta herramienta. Para luego adicionarse Solana seguido de Cardano.
+Being one of the main utilities of the <mark style="color:yellow;">Polaris ecosystem</mark>, in the portfolio within our application you will have several tools that will allow you to have a deep monitoring of your investments within the <mark style="color:yellow;">ecosystem</mark>.
 
 ***
 
-### Dentro de esta podrás:
+### Inside you will be able to:
 
-* [ ] Ver el rendimiento de la wallet conectada.
-* [ ] Navegar por mapa de calor de colecciones NFTs (Hispanas & Inglesas)
-* [ ] Realizar informe de comunidad de colecciones NFTs (Hispana & Inglesas)
-* [ ] Realizar informe sobre la wallet conectada.
-* [ ] Ver los familiares de la wallet conectada.
-* [ ] Ver el rendimiento de los familiares de la wallet.
-* [ ] Realizar informe de cualquier familiar de la wallet conectada.
-* [ ] Ver el rendimiento del mercado.
-* [ ] Realizar informe completo del mercado. (Crypto & NFTs)
-* [ ] Realizar búsqueda de gemas del mercado. (Crypto & NFTs)
-* [ ] Realizar informe de gemas del mercado. (Crypto & NFTs)
+* [ ] View the performance of the <mark style="color:yellow;">connected wallet</mark>.&#x20;
+* [ ] Browse <mark style="color:yellow;">NFTs collections</mark> heatmap (Hispanic & English)&#x20;
+* [ ] Perform community report of NFTs collections <mark style="color:yellow;">(Hispanic & English)</mark>.&#x20;
+* [ ] Report on the connected wallet.&#x20;
+* [ ] View connected wallet <mark style="color:yellow;">family members</mark>.&#x20;
+* [ ] View the <mark style="color:yellow;">performance</mark> of the wallet family members.&#x20;
+* [ ] Report on any <mark style="color:yellow;">family member</mark> of the connected wallet.&#x20;
+* [ ] View market performance.&#x20;
+* [ ] Perform full market report <mark style="color:yellow;">(Crypto & NFTs)</mark>.&#x20;
+* [ ] Perform market gem search <mark style="color:yellow;">(Crypto & NFTs)</mark>.&#x20;
+* [ ] Perform market gems report <mark style="color:yellow;">(Crypto & NFTs)</mark>
 
 {% hint style="info" %}
 Este ultimo solo disponible para la Blockchain de [Hedera](../).

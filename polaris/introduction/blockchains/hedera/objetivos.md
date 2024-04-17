@@ -2,12 +2,10 @@
 
 <figure><img src="../../../../.gitbook/assets/Hedera-Hashgraph-HBAR-spends-more-than-4-billion-to-1024x576-1.jpg" alt=""><figcaption></figcaption></figure>
 
-Seleccionamos a Hedera como nuestra Blockchain madre porque creemos que presenta la tecnología mas revolucionaria hasta el momento dentro del ecosistema Web3. Soportando mas de 10,000 transacciones por segundo y con un costo promedio de transaccion de  $0.0001, es sin duda alguna la Blockchain mas revolucionaria que presenta ahora mismo el ecosistema Web3. Ademas que al estar respaldado por diversas empresas multinacionales pueden garantizar la seguridad y escalabilidad de la red al muy largo plazo.
+We selected <mark style="color:yellow;">Hedera</mark> as our parent Blockchain because we believe it presents the most <mark style="color:yellow;">revolutionary technology</mark> so far within the Web3 ecosystem. Supporting more than 10,000 transactions per second and with an average transaction cost of <mark style="color:yellow;">$0.0001</mark>, it is, without a doubt, <mark style="color:yellow;">the most revolutionary Blockchain in the Web3 ecosystem right now</mark>. In addition to being backed by several multinational companies, it can guarantee the security and scalability of the network in the very long term.
 
 ***
 
-### El principal problema de Hedera
+### The main problem of Hedera
 
-Pero como toda revolucion tecnologica tambien presenta diversos problemas dentro de la misma. Y el principal de ellos es la dificultad en su adopción debido a su tecnología. Hedera presenta una tecnología muy compleja y difícil de entender para un usuario promedio que tiene pocos conocimiento sobre Web3. Por lo tanto decidimos que nuestra principal misión dentro de la red sera desarrollar herramientas de aprendizaje.
-
-Herramientas mediante cualquier persona pueda entender como funciona el ecosistema de Hedera o desarrollar su propia aplicación dentro del ecosistema usando esta fantástica tecnología sin necesidad de aprender teorías complejas.
+But like all <mark style="color:yellow;">technological revolution</mark> also presents several <mark style="color:red;">problems</mark> within it. And the main one of them is the difficulty in its adoption due to its technology. Hedera presents a very <mark style="color:yellow;">complex technology</mark> and difficult to understand for an average user who has little knowledge about Web3. Therefore we decided that our main mission within the network will be to develop <mark style="color:yellow;">tools</mark> to give old and new users of the network access to information in an <mark style="color:yellow;">easy</mark>, <mark style="color:yellow;">fast</mark> and <mark style="color:yellow;">convenient</mark> way.

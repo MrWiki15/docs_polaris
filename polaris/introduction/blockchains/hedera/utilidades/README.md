@@ -2,8 +2,8 @@
 
 <figure><img src="../../../../../.gitbook/assets/hedera-hashgraph-hbar-1200x628-1.jpg" alt=""><figcaption></figcaption></figure>
 
-A continuación presentamos y explicamos cada una de las Utilidades que desarrollaremos en Polaris para el ecosistema Hedera.
+Next we present and explain each one of the Utilities that we will develop in Polaris for the Hedera ecosystem.
 
 {% hint style="info" %}
-Estas utilidades pueden cambiar, aumentar o disminuir dependiendo de nuestra comunidad. Mas información en nuestro [Discord](broken-reference).
+These utilities may change, increase or decrease depending on our community. More information in our [Discord](broken-reference).
 {% endhint %}
