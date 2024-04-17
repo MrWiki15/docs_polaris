@@ -1,12 +1,12 @@
 # 🚂 Qsoft Development Team
 
-<figure><img src="../../../.gitbook/assets/WhatsApp-Image-2023-11-24-at-17.20.12-1-e1700896264378 (1).jpeg" alt=""><figcaption><p>Oficinas Qsoft</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/WhatsApp-Image-2023-11-24-at-17.20.12-1-e1700896264378 (1).jpeg" alt=""><figcaption><p>Oficinas Qsoft</p></figcaption></figure>
 
-Qsoft es un equipo formado por 4 desarrolladores de Software cubanos que intentaron <mark style="color:yellow;">crear</mark> una luz en medio de un océano de oscuridad.&#x20;
+Qsoft is a team formed by 4 Cuban software developers who tried to <mark style="color:yellow;">create</mark> a light in the middle of an ocean of darkness.
 
 ***
 
-### Inicios
+### The beginnings of the team
 
 Obligados a buscar una fuente de ingresos que les facilitara la adquisición de recursos, los integrantes del equipo aun sin conocerse decidieron a una temprana edad adentrarse en el mundo tecnológico. Un sector que en ese momento estaba en constante evolución pero que a todos de cierta forma le encantaba todos los paradigmas que provocaban cada avance tecnológico.
 
@@ -24,15 +24,15 @@ De esta forma, poco a poco con el plazo del tiempo, y siendo cada ves mayor la c
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Proyecto nuevo (3).webp" alt=""><figcaption><p>Rip MrWiki</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Proyecto nuevo (3).webp" alt=""><figcaption><p>Rip MrWiki</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Proyecto nuevo (2).webp" alt=""><figcaption><p>ano ?</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Proyecto nuevo (2).webp" alt=""><figcaption><p>ano ?</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Proyecto nuevo (1).webp" alt=""><figcaption><p>El inicio</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Proyecto nuevo (1).webp" alt=""><figcaption><p>El inicio</p></figcaption></figure>
 
 </div>
 

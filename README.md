@@ -3,10 +3,10 @@ cover: .gitbook/assets/Proyecto nuevo(14).png
 coverY: 0
 ---
 
-# 📌 Introducción
+# 📌 Introduction
 
-### Polaris es un ecosistema de utilidades para la comunidad Web3 desarrollado por [Qsoft Development Team](https://cusoft.tech), un equipo de creación y desarrollo de Software cubano.
+### Polaris is an ecosystem of utilities for the Web3 community developed by [Qsoft Development Team](https://cusoft.tech), a Cuban software creation and development team.
 
 ***
 
-Su enfoque principal es proporcionar herramientas integrales que faciliten el seguimiento, la interacción y la comprensión del espacio de las criptomonedas y la tecnología blockchain. Con una amplia gama de aplicaciones móviles, extensiones de navegador, bots de Discord y portales web, Polaris tiene como objetivo empoderar a los usuarios para que puedan tomar decisiones informadas en un mercado en constante evolución. Su misión es brindar acceso fácil y práctico a información precisa y relevante, fomentando así la participación activa y el crecimiento dentro de la comunidad Web3.
+Its primary focus is to provide comprehensive tools that facilitate <mark style="color:yellow;">tracking</mark>, <mark style="color:yellow;">interaction</mark> and <mark style="color:yellow;">understanding</mark> of the cryptocurrency and blockchain technology space. With a wide range of <mark style="color:yellow;">mobile apps</mark>, <mark style="color:yellow;">browser extensions</mark>, <mark style="color:yellow;">Discord bots</mark> and <mark style="color:yellow;">web portals</mark>, Polaris aims to empower users to make informed decisions in an ever-evolving marketplace. Its mission is to provide easy and convenient access to accurate and relevant information, thus encouraging active participation and growth within the Web3 community.
