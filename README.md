@@ -1,7 +1,5 @@
 # 📌 Introduction
 
-###
-
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Polaris is an ecosystem of utilities for the Web3 community developed by [Qsoft Development Team](https://cusoft.tech), a Cuban software creation and development team.
