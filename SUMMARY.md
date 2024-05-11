@@ -9,6 +9,10 @@
     * [🏠 Hedera](polaris/introduction/blockchains/hedera/README.md)
       * [📍 Objetivos ](polaris/introduction/blockchains/hedera/objetivos.md)
       * [🔨 Utilidades](polaris/introduction/blockchains/hedera/utilidades/README.md)
+        * [Page 3](polaris/introduction/blockchains/hedera/utilidades/page-3.md)
+        * [Page 2](polaris/introduction/blockchains/hedera/utilidades/page-2.md)
+        * [Page 1](polaris/introduction/blockchains/hedera/utilidades/page-1.md)
+        * [Page](polaris/introduction/blockchains/hedera/utilidades/page.md)
         * [📖 Portafolio ](polaris/introduction/blockchains/hedera/utilidades/portafolio.md)
         * [🕹️ PoliGames](polaris/introduction/blockchains/hedera/utilidades/poligames.md)
         * [📚 Materiales](polaris/introduction/blockchains/hedera/utilidades/materiales.md)
@@ -25,15 +29,17 @@
 
 * [📌 Introducción](polaris-app/introduccion/README.md)
   * [✒️ Diseño](polaris-app/introduccion/diseno.md)
-  * [🧑‍💻 Tecnología ](polaris-app/introduccion/tecnologia/README.md)
-    * [💻 Código](polaris-app/introduccion/tecnologia/codigo.md)
-      * [📕 Practicas ](polaris-app/introduccion/tecnologia/codigo/practicas/README.md)
-        * [1️⃣ Componentización](polaris-app/introduccion/tecnologia/codigo/practicas/componentizacion.md)
-    * [🛡️ Seguridad ](polaris-app/introduccion/tecnologia/seguridad.md)
   * [🛠️ Versiones](polaris-app/introduccion/versiones/README.md)
     * [🏗️ Beta](polaris-app/introduccion/versiones/beta.md)
     * [🏗️ V 1.0](polaris-app/introduccion/versiones/v-1.0.md)
     * [🏗️ V 1.1](polaris-app/introduccion/versiones/v-1.1.md)
+
+## 🌐 Portal Polaris
+
+* [📌 Introduction ](portal-polaris/introduction/README.md)
+  * [✏️ Diseño](portal-polaris/introduction/diseno.md)
+  * [👨‍💻 Tecnología ](portal-polaris/introduction/tecnologia.md)
+  * [⚒️ Versiones ](portal-polaris/introduction/versiones.md)
 
 ## 🤖 Polaris Bot
 

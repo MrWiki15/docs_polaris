@@ -6,5 +6,4 @@
 * [x] Show basic information about the most relevant cryptocurrencies in the sector.
 * [x] Display basic information about the most relevant NFTs in the industry.&#x20;
 * [x] Development of Social Networks and community.&#x20;
-* [x] Search for Sponsors to obtain funding.&#x20;
 * [x] Choice of the Mother Blockchain for development.
