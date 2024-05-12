@@ -1,4 +1,4 @@
-# 📌 Introducción
+# 🤖 Polaris Bot
 
 {% embed url="https://youtu.be/36ILJMIvG5s?si=6XrtczghZvr-xrKj" %}
 

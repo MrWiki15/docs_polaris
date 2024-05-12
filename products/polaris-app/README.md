@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 📌 Introducción
+# 📱 Polaris App
 
 The Polaris <mark style="color:yellow;">mobile app</mark> is the <mark style="color:yellow;">cornerstone</mark> of the ecosystem, providing users with a <mark style="color:yellow;">convenient</mark> and <mark style="color:yellow;">accessible</mark> gateway to the <mark style="color:yellow;">tools</mark> and services offered by the project. Designed with an intuitive interface and powerful features, our <mark style="color:yellow;">mobile app</mark> aligns with the project's <mark style="color:yellow;">mission</mark> to simplify and enhance the Web3 community experience.
 

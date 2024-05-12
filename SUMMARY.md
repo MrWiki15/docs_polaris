@@ -25,37 +25,26 @@
   * [🖼️ NFTs](polaris/welcome/nfts.md)
   * [💸 Patrocinadores](polaris/welcome/patrocinadores.md)
 
-## 📱 Polaris App&#x20;
+## 🏁 Products
 
-* [📌 Introducción](polaris-app/introduccion/README.md)
-  * [✒️ Diseño](polaris-app/introduccion/diseno.md)
-  * [🛠️ Versiones](polaris-app/introduccion/versiones/README.md)
-    * [🏗️ Beta](polaris-app/introduccion/versiones/beta.md)
-    * [🏗️ V 1.0](polaris-app/introduccion/versiones/v-1.0.md)
-    * [🏗️ V 1.1](polaris-app/introduccion/versiones/v-1.1.md)
+* [📱 Polaris App](products/polaris-app/README.md)
+  * [✒️ Diseño](products/polaris-app/diseno.md)
+  * [🛠️ Versiones](products/polaris-app/versiones/README.md)
+    * [🏗️ Beta](products/polaris-app/versiones/beta.md)
+    * [🏗️ V 1.0](products/polaris-app/versiones/v-1.0.md)
+    * [🏗️ V 1.1](products/polaris-app/versiones/v-1.1.md)
+* [🌐 Polaris Web](products/polaris-web/README.md)
+  * [✏️ Diseño](products/polaris-web/diseno.md)
+  * [👨‍💻 Tecnología ](products/polaris-web/tecnologia.md)
+  * [⚒️ Versiones ](products/polaris-web/versiones.md)
+* [🤖 Polaris Bot](products/polaris-bot.md)
+* [🕸️ Polaris Extencion](products/polaris-extencion.md)
+* [💎 Polaris Kit](products/polaris-kit.md)
+* [🎮 Polaris Game](products/polaris-game.md)
 
-## 🌐 Portal Polaris
+## 🏳️ Developers
 
-* [📌 Introduction ](portal-polaris/introduction/README.md)
-  * [✏️ Diseño](portal-polaris/introduction/diseno.md)
-  * [👨‍💻 Tecnología ](portal-polaris/introduction/tecnologia.md)
-  * [⚒️ Versiones ](portal-polaris/introduction/versiones.md)
-
-## 🤖 Polaris Bot
-
-* [📌 Introducción](polaris-bot/introduccion.md)
-
-## 🕸️ Polaris Extencion
-
-* [📌 Introducción](polaris-extencion/introduccion.md)
-
-## 💎 Polaris kit
-
-* [Page 5](polaris-kit/page-5.md)
-
-## 👨‍💻 Polaris Dev
-
-* [Page 4](polaris-dev/page-4.md)
+* [👩‍💻 Polaris Dev](developers/polaris-dev.md)
 
 ## 📰 Social
 
