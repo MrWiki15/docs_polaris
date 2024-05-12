@@ -2,28 +2,28 @@
 
 ## 🏗️ Polaris
 
-* [📌 Introduction](README.md)
-  * [🚂 Qsoft Development Team](polaris/introduction/qsoft-development-team.md)
-  * [⛓️ Blockchains](polaris/introduction/blockchains/README.md)
-    * [📌 Introduction](polaris/introduction/blockchains/introduction.md)
-    * [🏠 Hedera](polaris/introduction/blockchains/hedera/README.md)
-      * [📍 Objetivos ](polaris/introduction/blockchains/hedera/objetivos.md)
-      * [🔨 Utilidades](polaris/introduction/blockchains/hedera/utilidades/README.md)
-        * [Page 3](polaris/introduction/blockchains/hedera/utilidades/page-3.md)
-        * [Page 2](polaris/introduction/blockchains/hedera/utilidades/page-2.md)
-        * [Page 1](polaris/introduction/blockchains/hedera/utilidades/page-1.md)
-        * [Page](polaris/introduction/blockchains/hedera/utilidades/page.md)
-        * [📖 Portafolio ](polaris/introduction/blockchains/hedera/utilidades/portafolio.md)
-        * [🕹️ PoliGames](polaris/introduction/blockchains/hedera/utilidades/poligames.md)
-        * [📚 Materiales](polaris/introduction/blockchains/hedera/utilidades/materiales.md)
-        * [📘 Maestrías ](polaris/introduction/blockchains/hedera/utilidades/maestrias.md)
-        * [👷 Trabajos](polaris/introduction/blockchains/hedera/utilidades/trabajos.md)
-        * [👪 Comunidades](polaris/introduction/blockchains/hedera/utilidades/comunidades.md)
-        * [📑 P2P Mercado](polaris/introduction/blockchains/hedera/utilidades/p2p-mercado.md)
-    * [🏘️ Hive ](polaris/introduction/blockchains/btc.md)
-  * [🗺️ RoadMap](polaris/introduction/roadmap.md)
-  * [🖼️ NFTs](polaris/introduction/nfts.md)
-  * [💸 Patrocinadores](polaris/introduction/patrocinadores.md)
+* [👋 Welcome!](README.md)
+  * [🚂 Qsoft Development Team](polaris/welcome/qsoft-development-team.md)
+  * [⛓️ Blockchains](polaris/welcome/blockchains/README.md)
+    * [📌 Introduction](polaris/welcome/blockchains/introduction.md)
+    * [🏠 Hedera](polaris/welcome/blockchains/hedera/README.md)
+      * [📍 Objetivos ](polaris/welcome/blockchains/hedera/objetivos.md)
+      * [🔨 Utilidades](polaris/welcome/blockchains/hedera/utilidades/README.md)
+        * [Page 3](polaris/welcome/blockchains/hedera/utilidades/page-3.md)
+        * [Page 2](polaris/welcome/blockchains/hedera/utilidades/page-2.md)
+        * [Page 1](polaris/welcome/blockchains/hedera/utilidades/page-1.md)
+        * [Page](polaris/welcome/blockchains/hedera/utilidades/page.md)
+        * [📖 Portafolio ](polaris/welcome/blockchains/hedera/utilidades/portafolio.md)
+        * [🕹️ PoliGames](polaris/welcome/blockchains/hedera/utilidades/poligames.md)
+        * [📚 Materiales](polaris/welcome/blockchains/hedera/utilidades/materiales.md)
+        * [📘 Maestrías ](polaris/welcome/blockchains/hedera/utilidades/maestrias.md)
+        * [👷 Trabajos](polaris/welcome/blockchains/hedera/utilidades/trabajos.md)
+        * [👪 Comunidades](polaris/welcome/blockchains/hedera/utilidades/comunidades.md)
+        * [📑 P2P Mercado](polaris/welcome/blockchains/hedera/utilidades/p2p-mercado.md)
+    * [🏘️ Hive ](polaris/welcome/blockchains/hive.md)
+  * [🗺️ RoadMap](polaris/welcome/roadmap.md)
+  * [🖼️ NFTs](polaris/welcome/nfts.md)
+  * [💸 Patrocinadores](polaris/welcome/patrocinadores.md)
 
 ## 📱 Polaris App&#x20;
 
@@ -48,6 +48,14 @@
 ## 🕸️ Polaris Extencion
 
 * [📌 Introducción](polaris-extencion/introduccion.md)
+
+## 💎 Polaris kit
+
+* [Page 5](polaris-kit/page-5.md)
+
+## 👨‍💻 Polaris Dev
+
+* [Page 4](polaris-dev/page-4.md)
 
 ## 📰 Social
 
