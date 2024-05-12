@@ -5,7 +5,7 @@ coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -20,9 +20,9 @@ layout:
 
 # 📱 Polaris App
 
-The Polaris <mark style="color:yellow;">mobile app</mark> is the <mark style="color:yellow;">cornerstone</mark> of the ecosystem, providing users with a <mark style="color:yellow;">convenient</mark> and <mark style="color:yellow;">accessible</mark> gateway to the <mark style="color:yellow;">tools</mark> and services offered by the project. Designed with an intuitive interface and powerful features, our <mark style="color:yellow;">mobile app</mark> aligns with the project's <mark style="color:yellow;">mission</mark> to simplify and enhance the Web3 community experience.
+The Polaris mobile app is the cornerstone of the ecosystem, providing users with a convenient and <mark style="color:yellow;">accessible</mark> gateway to the <mark style="color:yellow;">tools</mark> and services offered by the project. Designed with an intuitive interface and powerful features, our <mark style="color:yellow;">mobile app</mark> aligns with the project's <mark style="color:yellow;">mission</mark> to simplify and enhance the Web3 community experience.
 
-### Objectives:
+## Objectives:
 
 * **Accessibility:** The Polaris mobile app is designed to be easily accessible to users of all <mark style="color:yellow;">experience levels</mark>, from beginners to <mark style="color:yellow;">tech experts</mark>. Through an intuitive interface and <mark style="color:yellow;">clear functions</mark>, Polaris seeks to remove barriers to entry and make blockchain technology more <mark style="color:yellow;">understandable</mark> and <mark style="color:yellow;">attainable</mark> for <mark style="color:yellow;">everyone</mark>.
 * **Comprehensive Functionality:** The Polaris mobile app offers a wide range of <mark style="color:yellow;">functions</mark> and <mark style="color:yellow;">tools</mark> designed to meet the <mark style="color:yellow;">diverse needs</mark> of the Web3 community. From viewing <mark style="color:yellow;">prices</mark> and <mark style="color:yellow;">statistics</mark> to managing <mark style="color:yellow;">wallets</mark> and <mark style="color:yellow;">interacting</mark> with the blockchain, Polaris provides everything <mark style="color:yellow;">users need</mark> to fully <mark style="color:yellow;">participate in the decentralized ecosystem</mark>.
