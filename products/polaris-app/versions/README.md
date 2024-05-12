@@ -21,9 +21,9 @@ layout:
 
 
 
-With each update, Polaris seeks to offer an improved user experience, new <mark style="color:yellow;">functionalities</mark> and greater <mark style="color:yellow;">integration</mark> with the decentralized ecosystem.
+With each update, Polaris seeks to offer an improved user experience, new functionalities and greater integration with the decentralized ecosystem.
 
-> **Mission:** The mission of each release of the Polaris application is to drive adoption and participation in Web3 by providing users with an intuitive and powerful platform to explore, interact and benefit from the decentralized world. Through regular updates and continuous improvements, we seek to stay at the forefront of technology and deliver innovative <mark style="color:yellow;">solutions that meet the emerging needs of the community</mark>.
+> Mission: The mission of each release of the Polaris application is to drive adoption and participation in Web3 by providing users with an intuitive and powerful platform to explore, interact and benefit from the decentralized world. <mark style="color:blue;">Through regular updates and continuous improvements, we seek to stay at the forefront of technology and deliver innovative solutions that meet the emerging needs of the community.</mark>
 
 ***
 
