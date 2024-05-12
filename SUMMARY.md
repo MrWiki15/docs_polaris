@@ -3,6 +3,7 @@
 ## 🏗️ Polaris
 
 * [👋 Welcome!](README.md)
+  * [📌 Introduction](polaris/welcome/introduction.md)
   * [🚂 Qsoft Development Team](polaris/welcome/qsoft-development-team.md)
   * [⛓️ Blockchains](polaris/welcome/blockchains/README.md)
     * [📌 Introduction](polaris/welcome/blockchains/introduction.md)

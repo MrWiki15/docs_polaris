@@ -19,7 +19,7 @@ layout:
 
 # 👋 Welcome!
 
-> ✨ This is the official documentation of Polaris, an ecosystem of utilities that aims to give you access to information in an easy, fast and convenient way.
+> ✨ This is the official documentation for Polaris, an ecosystem of utilities designed to give you easy, fast, and convenient access to information.
 
 ***
 
