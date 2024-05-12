@@ -44,7 +44,7 @@
 
 ## 🏳️ Developers
 
-* [👩‍💻 Polaris Dev](developers/polaris-dev/README.md)
+* [👩‍💻 Polaris Dev](developers/polaris-dev.md)
   * [🪙 B2E](developers/polaris-dev/b2e.md)
   * [🏦 GitHub](developers/polaris-dev/github/README.md)
     * [📱 Polaris App](developers/polaris-dev/github/polaris-app.md)

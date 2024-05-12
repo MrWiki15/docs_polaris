@@ -12,11 +12,11 @@ The predominant <mark style="color:yellow;">background</mark> color in Polaris i
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Proyecto nuevo (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Proyecto nuevo (3) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Proyecto nuevo (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Proyecto nuevo (4) (1).png" alt=""><figcaption></figcaption></figure>
 
  
 

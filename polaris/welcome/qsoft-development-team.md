@@ -12,7 +12,9 @@ Forced to look for a source of income that would facilitate the acquisition of r
 
 After approximately 4_years_of independent study, the group of developers decided to get together as a <mark style="color:yellow;">team</mark> to try to create that ray of light and try, perhaps, to enlighten other Cuban and world developers.
 
-{% embed url="https://x.com/MrWiki15_/status/1716626992580247877?s=20" %}
+<figure><img src="../../.gitbook/assets/Proyecto nuevo (4).png" alt=""><figcaption></figcaption></figure>
+
+> [Enlace](https://x.com/MrWiki15\_/status/1716626990491418959)
 
 ***
 
