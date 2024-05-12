@@ -6,7 +6,6 @@
   * [📌 Introduction](polaris/welcome/introduction.md)
   * [🚂 Qsoft Development Team](polaris/welcome/qsoft-development-team.md)
   * [⛓️ Blockchains](polaris/welcome/blockchains/README.md)
-    * [📌 Introduction](polaris/welcome/blockchains/introduction.md)
     * [🏠 Hedera](polaris/welcome/blockchains/hedera/README.md)
       * [📍 Objetivos ](polaris/welcome/blockchains/hedera/objetivos.md)
       * [🔨 Utilidades](polaris/welcome/blockchains/hedera/utilidades/README.md)
