@@ -6,7 +6,7 @@
   * [📌 Introduction](polaris/welcome/introduction.md)
   * [🚂 Qsoft Development Team](polaris/welcome/qsoft-development-team.md)
   * [⛓️ Blockchains](polaris/welcome/blockchains/README.md)
-    * [🏠 Hedera](polaris/welcome/blockchains/hedera.md)
+    * [🏠 Hedera](polaris/welcome/blockchains/hedera/README.md)
     * [🏘️ Hive ](polaris/welcome/blockchains/hive.md)
   * [🗺️ RoadMap](polaris/welcome/roadmap.md)
   * [🖼️ NFTs](polaris/welcome/nfts.md)
@@ -15,18 +15,18 @@
 ## 🏁 Products
 
 * [📱 Polaris App](products/polaris-app/README.md)
-  * [✒️ Diseño](products/polaris-app/diseno.md)
-  * [🛠️ Versiones](products/polaris-app/versiones/README.md)
-    * [🏗️ Beta](products/polaris-app/versiones/beta.md)
-    * [🏗️ V 1.0](products/polaris-app/versiones/v-1.0.md)
-    * [🏗️ V 1.1](products/polaris-app/versiones/v-1.1.md)
+  * [✒️ Design](products/polaris-app/design.md)
+  * [🛠️ Versions](products/polaris-app/versions/README.md)
+    * [🏗️ Beta](products/polaris-app/versions/beta.md)
+    * [🏗️ V 1.0](products/polaris-app/versions/v-1.0.md)
+    * [🏗️ V 1.1](products/polaris-app/versions/v-1.1.md)
 * [🌐 Polaris Web](products/polaris-web/README.md)
   * [✏️ Diseño](products/polaris-web/diseno.md)
   * [👨‍💻 Tecnología ](products/polaris-web/tecnologia.md)
   * [⚒️ Versiones ](products/polaris-web/versiones.md)
-* [🤖 Polaris Bot](products/polaris-bot.md)
-* [🕸️ Polaris Extencion](products/polaris-extencion.md)
-* [🎮 Polaris Game](products/polaris-game.md)
+* [🤖 Polaris Bot (ALPHA)](products/polaris-bot-alpha.md)
+* [🕸️ Polaris Extencion (ALPHA)](products/polaris-extencion-alpha.md)
+* [🎮 Polaris Game (ALPHA)](products/polaris-game-alpha.md)
 
 ## 🏳️ Developers
 

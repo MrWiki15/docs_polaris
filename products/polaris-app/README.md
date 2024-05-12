@@ -20,18 +20,26 @@ layout:
 
 # 📱 Polaris App
 
-The Polaris mobile app is the cornerstone of the ecosystem, providing users with a convenient and <mark style="color:yellow;">accessible</mark> gateway to the <mark style="color:yellow;">tools</mark> and services offered by the project. Designed with an intuitive interface and powerful features, our <mark style="color:yellow;">mobile app</mark> aligns with the project's <mark style="color:yellow;">mission</mark> to simplify and enhance the Web3 community experience.
+## Enlaces de Descarga Polaris App ( BETA 1.2 )
 
-## Objectives:
-
-* **Accessibility:** The Polaris mobile app is designed to be easily accessible to users of all <mark style="color:yellow;">experience levels</mark>, from beginners to <mark style="color:yellow;">tech experts</mark>. Through an intuitive interface and <mark style="color:yellow;">clear functions</mark>, Polaris seeks to remove barriers to entry and make blockchain technology more <mark style="color:yellow;">understandable</mark> and <mark style="color:yellow;">attainable</mark> for <mark style="color:yellow;">everyone</mark>.
-* **Comprehensive Functionality:** The Polaris mobile app offers a wide range of <mark style="color:yellow;">functions</mark> and <mark style="color:yellow;">tools</mark> designed to meet the <mark style="color:yellow;">diverse needs</mark> of the Web3 community. From viewing <mark style="color:yellow;">prices</mark> and <mark style="color:yellow;">statistics</mark> to managing <mark style="color:yellow;">wallets</mark> and <mark style="color:yellow;">interacting</mark> with the blockchain, Polaris provides everything <mark style="color:yellow;">users need</mark> to fully <mark style="color:yellow;">participate in the decentralized ecosystem</mark>.
-* **Security and Trust:** Realizing the importance of <mark style="color:yellow;">security</mark> in the <mark style="color:yellow;">cryptocurrency</mark> space, Polaris prioritizes the <mark style="color:yellow;">safety</mark> and <mark style="color:yellow;">security</mark> of users' <mark style="color:yellow;">funds</mark> and <mark style="color:yellow;">data</mark>. By implementing <mark style="color:yellow;">robust</mark> security measures and adopting <mark style="color:yellow;">best practices</mark> in IT security, Polaris <mark style="color:yellow;">offers</mark> users peace of mind knowing that their <mark style="color:yellow;">data</mark> and <mark style="color:yellow;">assets</mark> are <mark style="color:yellow;">protected</mark>.
-* **Education and Training:** In addition to providing <mark style="color:yellow;">tools</mark> and <mark style="color:yellow;">services</mark>, the Polaris mobile application is also <mark style="color:yellow;">dedicated</mark> to user <mark style="color:yellow;">education</mark> and <mark style="color:yellow;">training</mark>. Through educational <mark style="color:yellow;">resources</mark>, <mark style="color:yellow;">tutorials</mark> and informative <mark style="color:yellow;">content</mark>, Polaris seeks to empower users with the knowledge, <mark style="color:yellow;">skills</mark> and <mark style="color:yellow;">knowledge</mark> they need to protect their <mark style="color:yellow;">data</mark> and <mark style="color:yellow;">assets</mark>.
+1. [Uptodown (Android)](https://com-mrwiki-d7.uptodown.com/android)
+2. PlayStore <mark style="color:blue;">(comming)</mark>
+3. AppStore <mark style="color:blue;">(comming)</mark>
 
 ***
 
-In <mark style="color:yellow;">short</mark>, the Polaris <mark style="color:yellow;">mobile app</mark> is much more than just a <mark style="color:yellow;">tool</mark>; it is a <mark style="color:yellow;">bridge</mark> to a <mark style="color:yellow;">decentralized</mark> and <mark style="color:yellow;">equitable</mark> future. By offering an exceptional user <mark style="color:yellow;">experience</mark>, advanced <mark style="color:yellow;">functionality</mark> and a focus on <mark style="color:yellow;">security and education</mark>, we will position Polaris as a <mark style="color:yellow;">leader</mark> in the Web3 space, inspiring and empowering the next <mark style="color:yellow;">generation</mark> of <mark style="color:yellow;">participants</mark> in the <mark style="color:yellow;">decentralized economy</mark>.
+The Polaris mobile app is the cornerstone of the ecosystem, providing users with a convenient and accessible gateway to the tools and services offered by the project. Designed with an intuitive interface and powerful features, our mobile app aligns with the project's mission to simplify and enhance the Web3 community experience.
+
+## [📍](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwjh6e2OsYeGAxV238kDHY-pD4sQFnoECBMQAQ\&url=https%3A%2F%2Femojipedia.org%2Fround-pushpin\&usg=AOvVaw2kcmfRQrvF7gl\_tq9574AY\&opi=89978449) Objectives:
+
+* 🛡️ <mark style="color:blue;">**Accessibility:**</mark> The Polaris mobile app is designed to be easily accessible to users of all experience levels, from beginners to tech experts. Through an intuitive interface and clear functions, <mark style="color:blue;">Polaris seeks to remove barriers</mark> to entry and make blockchain technology more understandable and attainable for everyone.
+* 🛡️ <mark style="color:blue;">**Comprehensive Functionality:**</mark> The Polaris mobile app offers a wide range of functions and tools designed to meet the diverse needs of the Web3 community. From viewing prices and statistics to managing wallets and interacting with the blockchain, <mark style="color:blue;">Polaris provides everything users need to fully participate in the decentralized ecosystem</mark>.
+* 🛡️ <mark style="color:blue;">**Security and Trust:**</mark> Aware of the importance of security in the field of cryptocurrencies, Polaris gives priority to the security of user data. And for this reason <mark style="color:blue;">Polaris does not collect any data from any of its users</mark> except the address of their public wallets for the PortFolio.
+* 🛡️ <mark style="color:blue;">**Education and Training:**</mark> In addition to providing tools and services, the Polaris mobile application is also dedicated to user education and training. Through educational resources, tutorials and informative content, Polaris seeks to empower users with the knowledge, skills and knowledge they need to protect their data and assets.
+
+***
+
+In short, the Polaris mobile application is much more than a tool; it is a bridge to a decentralized and equitable future. Through exceptional usability, advanced functionality, and a focus on security and education, we will position Polaris as a leader in Web3, inspiring and empowering the next generation of decentralized economy participants.
 
 
 

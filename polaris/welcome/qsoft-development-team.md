@@ -14,7 +14,7 @@ After approximately 4_years_of independent study, the group of developers decide
 
 <figure><img src="../../.gitbook/assets/Proyecto nuevo (4).png" alt=""><figcaption></figcaption></figure>
 
-> [Enlace](https://x.com/MrWiki15\_/status/1716626990491418959)
+> [URL](https://x.com/MrWiki15\_/status/1716626990491418959)
 
 ***
 

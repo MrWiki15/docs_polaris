@@ -1,6 +1,6 @@
 # 🏠 Hedera
 
-<figure><img src="../../../.gitbook/assets/ezgif.com-gif-maker-2-1160x675.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ezgif.com-gif-maker-2-1160x675.webp" alt=""><figcaption></figcaption></figure>
 
 We selected Hedera as our parent Blockchain because we believe it presents the most revolutionary technology so far within the Web3 ecosystem. <mark style="color:blue;">Supporting more than 10,000 transactions per second</mark> and with an average transaction cost of $0.0001, it is, without a doubt, the most revolutionary Blockchain in the Web3 ecosystem right now. In addition to being backed by several multinational companies, it can guarantee the security and scalability of the network in the very long term.
 

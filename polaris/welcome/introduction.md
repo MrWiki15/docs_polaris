@@ -2,6 +2,10 @@
 
 <figure><img src="../../.gitbook/assets/PG 01 (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+The complete Polaris Commercial Branding has been designed by -> [Hallgraph™](https://twitter.com/hallgraph)
+{% endhint %}
+
 ## ✨ Nuestra Mision&#x20;
 
 La misión de Polaris es proporcionar un ecosistema de herramientas intuitivas y accesibles que le permita a los usuarios de todo el mundo explorar, interactuar y beneficiarse de las oportunidades en el espacio Web3. Buscamos democratizar el acceso a la blockchain, asegurando que la información y las herramientas sean <mark style="color:blue;">Fáciles, Rápidas y Convenientes</mark> para todos.

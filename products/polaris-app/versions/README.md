@@ -1,8 +1,25 @@
-# 🛠️ Versiones
+---
+cover: ../../../.gitbook/assets/Proyecto nuevo (10).webp
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🛠️ Versions
 
 
-
-<figure><img src="../../../.gitbook/assets/Evolucion-comunicacion-tech-600x183.jpg" alt=""><figcaption></figcaption></figure>
 
 With each update, Polaris seeks to offer an improved user experience, new <mark style="color:yellow;">functionalities</mark> and greater <mark style="color:yellow;">integration</mark> with the decentralized ecosystem.
 
@@ -10,7 +27,7 @@ With each update, Polaris seeks to offer an improved user experience, new <mark 
 
 ***
 
-### Objectives by Version:
+## ✅ Objectives by Version:
 
 * **Version 1.0 - Initial Release:**
 
@@ -23,10 +40,4 @@ With each update, Polaris seeks to offer an improved user experience, new <mark 
 
 * Version 1.1 - Functionality Expansion:
   * [ ] Goal: Expand the <mark style="color:yellow;">functionalities</mark> and features of the application to improve the user experience and <mark style="color:yellow;">increase its usefulness</mark>.
-  * [ ] Mission: To introduce new features such as <mark style="color:yellow;">advanced analysis tools</mark>, integration with <mark style="color:yellow;">exchanges</mark> and further customization, in order to meet the <mark style="color:yellow;">specific needs of the most advanced users</mark>.
-
-***
-
-* **Versión 1.2 - Integración de Nuevos Servicios:**
-  * [ ] Goal: <mark style="color:yellow;">Integrate</mark> new services and <mark style="color:yellow;">tools</mark> within the application to provide users with a more <mark style="color:yellow;">complete</mark> and enriching experience.
-  * [ ] Mission: To include features such as <mark style="color:yellow;">integration</mark> of the Polaris NFT collection, exclusive portfolio <mark style="color:yellow;">access</mark> and service discounts for NFT holders, and <mark style="color:yellow;">integration of educational content</mark> and training <mark style="color:yellow;">resources</mark> to promote adoption and community involvement.\
+  * [ ] Mission: To introduce new features such as <mark style="color:yellow;">advanced analysis tools</mark>, integration with <mark style="color:yellow;">exchanges</mark> and further customization, in order to meet the <mark style="color:yellow;">specific needs of the most advanced users</mark>.<mark style="color:yellow;">onal content</mark> and training <mark style="color:yellow;">resources</mark> to promote adoption and community involvement.\
