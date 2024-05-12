@@ -23,13 +23,13 @@ layout:
 
 ***
 
-En esta documentacion podras encontrar todas las especificaciones de los productos desarrollados por Qsoft Development Team para el ecosistema de Polaris Web3.
+In this documentation you can find all the specifications of the products developed by Qsoft Development Team for the Polaris Web3 ecosystem.
 
-### La documentacion se encuentra dividida en tres secciones 🪄
+### The documentation is divided into three sections 🪄
 
-1. <mark style="color:blue;">Introduccion al ecosistema:</mark> Esta es la seccion en la que te encuentras actualmente, en ella podras conocer que es Polaris en profundidad, quienes son sus creadores y cuales son sus objetivos y metas con este proyecto.
-2. <mark style="color:blue;">Productos de Polaris:</mark>  Esta sera la segunda seccion por la que podras viajar, en ella podras encontrar cada uno de los productos que rodean nuestro ecosistema y sus respectivas especificaciones. Desde nuestra Aplicacion mobil multiplataforma, Portal Web, Bot de Discord, Extencion para Navegadores y Videojuegos Web3.
-3. <mark style="color:blue;">Seccion de Developers:</mark> Siendo nuetra antepenultima seccion y a la ves una de las mas importantes. En esta seccion te explicaremos a detalle como funciona nuestro ecosistema a nivel tecnico, y como puedes aportar al mismo para crear en comunidad en mayor ecosistema de toda la Web3.
-4. <mark style="color:blue;">Redes Sociales:</mark> Siendo nuestra ultima seccion, en ella encontraras todas las redes sociales del proyecto.
+1. <mark style="color:blue;">Introduction to the ecosystem:</mark> This is the section in which you are currently, in it you can know what is Polaris in depth, who are its creators and what are their objectives and goals with this project.
+2. [Polaris Products:](products/polaris-app/) This will be the second section where you can travel, in it you can find each of the products that surround our ecosystem and their respective specifications. From our multiplatform mobile application, Web Portal, Discord Bot, Browser Extension and Web3 Video Games.
+3. [<mark style="color:blue;">Developers Section:</mark>](developers/polaris-dev.md) Being our last section and at the same time one of the most important. In this section we will explain in detail how our ecosystem works at a technical level, and how you can contribute to it to create the largest community ecosystem of all Web3.
+4. <mark style="color:blue;">Social Networks:</mark> Being our last section, in it you will find all the social networks of the project.
 
-Nos vemos en [Discord ](broken-reference)🤙
+Nos vemos en Discord 🤙
