@@ -6,35 +6,35 @@
 The complete Polaris Commercial Branding has been designed by -> [Hallgraph™](https://twitter.com/hallgraph)
 {% endhint %}
 
-## ✨ Nuestra Mision&#x20;
+## ✨ Our Mission&#x20;
 
-La misión de Polaris es proporcionar un ecosistema de herramientas intuitivas y accesibles que le permita a los usuarios de todo el mundo explorar, interactuar y beneficiarse de las oportunidades en el espacio Web3. Buscamos democratizar el acceso a la blockchain, asegurando que la información y las herramientas sean <mark style="color:blue;">Fáciles, Rápidas y Convenientes</mark> para todos.
+Polaris' mission is to provide an ecosystem of intuitive and accessible tools that allow users around the world to explore, interact and benefit from the opportunities in the Web3 space. We seek to democratize access to the blockchain, ensuring that information and tools are <mark style="color:blue;">Easy, Fast and Convenient</mark> for everyone.
 
 ***
 
-## 🤔 Porque "Facil, Rapida y <mark style="color:blue;">Conveniente</mark>" ?
+## 🤔 Why “Easy, Fast and Convenient” ?
 
-Para Polaris, estas tres palabras representan la esencia de nuestra misión y señalan el camino para alcanzar nuestra visión de un espacio Web3 accesible para todos.
+For Polaris, these three words represent the essence of our mission and point the way to achieve our vision of a Web3 space accessible to all.
 
-### 🚦 **Fácil**
+### 🚦 Easy
 
-Creemos que la tecnología blockchain y el espacio Web3 no deben ser exclusivos de <mark style="color:blue;">expertos</mark> en tecnología. Al hacer nuestras herramientas fáciles de usar, eliminamos las barreras técnicas, permitiendo que cualquier persona, independientemente de su experiencia previa, pueda explorar y beneficiarse del potencial de la blockchain.
-
-
-
-### 🚕 **Rápida**
-
-En el mundo digital, el tiempo es un recurso valioso. Queremos asegurar que nuestros usuarios puedan acceder a la información y los servicios que necesitan sin demoras innecesarias. Un acceso rápido no solo mejora la experiencia del usuario, sino que también facilita la toma de decisiones en tiempo real, una ventaja <mark style="color:blue;">crítica</mark> en el dinámico entorno Web3.
+We believe that blockchain technology and the Web3 space should not be exclusive to technology experts. By making our tools easy to use, we remove technical barriers, allowing anyone, regardless of prior experience, to explore and benefit from the potential of blockchain.
 
 
 
-### 💸 **Conveniente**
+### 🚕 Quick
 
-<mark style="color:blue;">La conveniencia es clave para la adopción</mark> y la satisfacción del usuario. Al diseñar soluciones que son convenientes, aseguramos que nuestros usuarios puedan acceder a las herramientas y la información necesaria desde <mark style="color:blue;">cualquier dispositivo</mark>, en <mark style="color:blue;">cualquier momento y lugar</mark>. Esto no solo democratiza el acceso a la blockchain, sino que también integra la tecnología Web3 en la vida cotidiana de las personas de una manera práctica y funcional.
+In the digital world, time is a valuable resource. We want to ensure that our users can access the information and services they need without unnecessary delays. <mark style="color:blue;">Fast access not only improves the user experience, but also facilitates real-time decision making, a critical advantage in the dynamic Web3 environment.</mark>
 
 
 
-> Estos principios guían el diseño y desarrollo de cada una de nuestras herramientas y servicios en Polaris, asegurando que cumplamos nuestra misión de hacer que el espacio Web3 sea accesible y beneficioso para todos.
+### Convenient
+
+Convenience is key to user adoption and satisfaction. By designing solutions that are convenient, we ensure that our users can access the tools and information they need from any device, anytime, anywhere. This not only democratizes access to blockchain, but also integrates web3 technology into people's daily lives in a practical and functional way.
+
+
+
+> These principles guide the design and development of each of our tools and services at Polaris, ensuring that we fulfill our mission to make the Web3 space accessible and beneficial to all.
 
 ***
 
@@ -42,36 +42,23 @@ En el mundo digital, el tiempo es un recurso valioso. Queremos asegurar que nues
 
 {% tabs %}
 {% tab title="📱 App" %}
-La **App móvil de Polaris** es una plataforma intuitiva y fácil de usar diseñada para que los usuarios del ecosistema se mantengan al tanto de todas las noticias "<mark style="color:blue;">relevantes</mark>" que podrían llegar a tener un impacto positivo o negativo en el sector.
+The Polaris Mobile App is an intuitive and easy-to-use platform designed for ecosystem users to keep abreast of all “relevant” news that could have a positive or negative impact on the industry.
 
 ### Beta[🟢](https://emojiterra.com/es/circulo-verde/)
 
-* Seguimiento del precio de los activos mas relevantes del sector <mark style="color:blue;">(Sin Humo)</mark> solo le damos importancia a los activos con mayor volumen, de los cuales depende todo el mercado.
-* Seguimientos de noticias con una gran relevancia. <mark style="color:blue;">Noticias que pueden mover el mercado</mark> o que realmente podrían <mark style="color:blue;">hacer un cambio en el sector</mark>.
-
-***
-
-### V1.0 [🟡](https://emojipedia.org/es/c%C3%ADrculo-amarillo)
-
-* Análisis estadístico a profundidad de los activos mas relevantes del sector.
-
-La app móvil de Polaris está centrada en la seguridad y la usabilidad, ofreciendo una experiencia fluida para tanto novatos como expertos en el espacio Web3.
+* <mark style="color:blue;">Price tracking</mark> of the most relevant assets in the sector (No Smoke) we only give importance to the assets with the highest volume, on which the whole market depends.
+* Follow-up of news with a great relevance. <mark style="color:blue;">News that can move the market or that could really make a change in the sector</mark>.
 
 <figure><img src="../../.gitbook/assets/iOS_ Polaris Icon.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="🌐 Portal" %}
-El **Portal Web de Polaris** es una plataforma <mark style="color:blue;">integral</mark> que facilita el acceso a información y recursos cruciales sobre el espacio Web3. Funciona como el eje central para explorar, aprender y interactuar con diferentes aspectos del ecosistema, proporcionando herramientas de análisis profundo, la posibilidad de interactuar con la Blockchain de Hive.
+The Polaris Web Portal is a comprehensive platform that facilitates access to crucial information and resources about the Web3 space. It functions as the central hub to explore, learn and interact with different aspects of the ecosystem, providing deep analysis tools, the ability to interact with the Hive Blockchain.
 
 ### Beta [🟢](https://emojiterra.com/es/circulo-verde/)
 
-* **Información Actualizada:** Acceso a noticias y análisis recientes para mantenerse informado sobre las tendencias del mercado.
-* **Herramientas de Análisis:** Funcionalidades que permiten evaluar el rendimiento de distintos activos digitales, optimizando la toma de decisiones.
-
-### V1.0 [🟡](https://emojipedia.org/es/c%C3%ADrculo-amarillo)
-
-* Herramientas de rastreo profundo en la Blockchain de <mark style="color:blue;">Hedera.</mark>
-* Herramientas de analisis para los Posts en la Blockchain de <mark style="color:blue;">Hive.</mark>
+* Up-to-date information: Access to recent news and analysis to stay informed about market trends.
+* Analysis Tools: Functionalities that allow you to evaluate the performance of <mark style="color:blue;">different digital assets, optimizing decision making.</mark>
 
 <figure><img src="../../.gitbook/assets/855shots_so.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
