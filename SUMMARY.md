@@ -40,7 +40,6 @@
   * [⚒️ Versiones ](products/polaris-web/versiones.md)
 * [🤖 Polaris Bot](products/polaris-bot.md)
 * [🕸️ Polaris Extencion](products/polaris-extencion.md)
-* [💎 Polaris Kit](products/polaris-kit.md)
 * [🎮 Polaris Game](products/polaris-game.md)
 
 ## 🏳️ Developers
