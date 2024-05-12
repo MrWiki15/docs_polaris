@@ -33,11 +33,11 @@ With each update, Polaris seeks to offer an improved user experience, new functi
 
 <!---->
 
-* [ ] Goal: To <mark style="color:yellow;">introduce</mark> the Polaris application to the <mark style="color:yellow;">market</mark> and establish a <mark style="color:yellow;">solid foundation</mark> for future iterations.
-* [ ] Mission: To provide an <mark style="color:yellow;">intuitive</mark> and <mark style="color:yellow;">functional user experience</mark> that allows users to explore <mark style="color:yellow;">prices</mark>, <mark style="color:yellow;">statistics</mark> and <mark style="color:yellow;">manage their cryptocurrency portfolios easily and securely</mark>.
+* [ ] <mark style="color:blue;">**Objective:**</mark> to introduce the Polaris application to the market and establish a solid base for future integrations.
+* [ ] <mark style="color:blue;">**Mission:**</mark> To provide an intuitive and functional user experience that allows users to explore prices, statistics and manage their cryptocurrency portfolios easily and securely.
 
 ***
 
 * Version 1.1 - Functionality Expansion:
-  * [ ] Goal: Expand the <mark style="color:yellow;">functionalities</mark> and features of the application to improve the user experience and <mark style="color:yellow;">increase its usefulness</mark>.
-  * [ ] Mission: To introduce new features such as <mark style="color:yellow;">advanced analysis tools</mark>, integration with <mark style="color:yellow;">exchanges</mark> and further customization, in order to meet the <mark style="color:yellow;">specific needs of the most advanced users</mark>.<mark style="color:yellow;">onal content</mark> and training <mark style="color:yellow;">resources</mark> to promote adoption and community involvement.\
+  * [ ] <mark style="color:blue;">Goal:</mark> Expand the functionalities and features of the application to improve the user experience and increase its usefulness.
+  * [ ] <mark style="color:blue;">Mission:</mark> To introduce new features, such as advanced analysis tools, integration with exchanges and increased customization, to meet specific user needs.
