@@ -44,7 +44,16 @@
 
 ## 🏳️ Developers
 
-* [👩‍💻 Polaris Dev](developers/polaris-dev.md)
+* [👩‍💻 Polaris Dev](developers/polaris-dev/README.md)
+  * [🪙 B2E](developers/polaris-dev/b2e.md)
+  * [🏦 GitHub](developers/polaris-dev/github/README.md)
+    * [📱 Polaris App](developers/polaris-dev/github/polaris-app.md)
+    * [🌐 Polaris Web](developers/polaris-dev/github/polaris-web.md)
+    * [📔 Practicas](developers/polaris-dev/github/practicas.md)
+    * [👷 Necesidades](developers/polaris-dev/github/necesidades.md)
+  * [📜 LICENCE](developers/polaris-dev/licence.md)
+  * [🎯 CONDUCT](developers/polaris-dev/conduct.md)
+  * [🛡️ SECURITY](developers/polaris-dev/security.md)
 
 ## 📰 Social
 

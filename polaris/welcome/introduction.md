@@ -71,21 +71,5 @@ El **Portal Web de Polaris** es una plataforma <mark style="color:blue;">integra
 
 <figure><img src="../../.gitbook/assets/855shots_so.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
-
-{% tab title="🤖 Bot" %}
-
-{% endtab %}
-
-{% tab title="🕸️ Extencion" %}
-
-{% endtab %}
-
-{% tab title="💼 Kit" %}
-
-{% endtab %}
-
-{% tab title="🎮 Games" %}
-
-{% endtab %}
 {% endtabs %}
 
