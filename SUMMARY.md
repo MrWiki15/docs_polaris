@@ -10,7 +10,6 @@
     * [🏘️ Hive ](polaris/welcome/blockchains/hive.md)
   * [🗺️ RoadMap](polaris/welcome/roadmap.md)
   * [🖼️ NFTs](polaris/welcome/nfts.md)
-  * [💸 Patrocinadores](polaris/welcome/patrocinadores.md)
 
 ## 🏁 Products
 
@@ -34,7 +33,6 @@
 * [👩‍💻 Polaris Dev](developers/polaris-dev.md)
   * [🪙 B2E](developers/polaris-dev/b2e.md)
   * [🏦 GitHub](developers/polaris-dev/github.md)
-  * [📔 Practicas](developers/polaris-dev/practicas.md)
   * [📜 LICENCE](developers/polaris-dev/licence.md)
   * [🎯 CONDUCT](developers/polaris-dev/conduct.md)
   * [🛡️ SECURITY](developers/polaris-dev/security.md)
