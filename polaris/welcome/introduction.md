@@ -38,7 +38,7 @@ Convenience is key to user adoption and satisfaction. By designing solutions tha
 
 ***
 
-## &#x20;Como lo conseguiremos [❓](https://emojiterra.com/es/interrogacion-roja/)
+## &#x20;How will we get it? [❓](https://emojiterra.com/es/interrogacion-roja/)
 
 {% tabs %}
 {% tab title="📱 App" %}
