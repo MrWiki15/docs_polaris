@@ -28,7 +28,6 @@
     * [🏗️ V 1.1](products/polaris-web/versions/v-1.1.md)
 * [🤖 Polaris Bot (ALPHA)](products/polaris-bot-alpha.md)
 * [🕸️ Polaris Extencion (ALPHA)](products/polaris-extencion-alpha.md)
-* [🎮 Polaris Game (ALPHA)](products/polaris-game-alpha.md)
 
 ## 🏳️ Developers
 

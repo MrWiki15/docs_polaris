@@ -32,4 +32,4 @@ In this documentation you can find all the specifications of the products develo
 3. [<mark style="color:blue;">Developers Section:</mark>](developers/polaris-dev.md) Being our last section and at the same time one of the most important. In this section we will explain in detail how our ecosystem works at a technical level, and how you can contribute to it to create the largest community ecosystem of all Web3.
 4. <mark style="color:blue;">Social Networks:</mark> Being our last section, in it you will find all the social networks of the project.
 
-Nos vemos en Discord 🤙
+See you on Discord 🤙
