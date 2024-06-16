@@ -4,6 +4,8 @@
 
 The Games section of Polaris allows users to discover the latest NFT games with the most potential on the Hedera blockchain. In the main section, users can view various games, and by selecting one, they are directed to a detailed screen where important and relevant information about the game is provided.
 
+***
+
 ### **🕹️ Key Features:**
 
 1. **Game Discovery:**
@@ -16,9 +18,13 @@ The Games section of Polaris allows users to discover the latest NFT games with 
 4. **🎮 Mini Games:**
    * Within this section, users can also play various mini-games available directly on the platform.
 
+***
+
 ### **🔍  Technology Used:**
 
 * The section utilizes Polaris's internal API to intelligently gather and present data on NFT gaming projects, ensuring users receive accurate and relevant information.
+
+***
 
 ### **🧠 User Benefits:**
 

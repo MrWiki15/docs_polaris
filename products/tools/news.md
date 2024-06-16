@@ -2,6 +2,8 @@
 
 The News section is designed to provide users with the most relevant and significant news in the cryptocurrency and blockchain sector. This section ensures that users receive high-quality, spam-free news, complete with detailed analysis and notifications for critical updates.
 
+***
+
 ### 📰 **Key Features:**
 
 1. **🔍 Relevant News Only:**
@@ -13,9 +15,13 @@ The News section is designed to provide users with the most relevant and signifi
 4. **Important Notifications:**
    * Users can receive notifications for the most important news, ensuring they stay informed about critical developments in real-time.
 
+***
+
 ### **📂 Technology Used:**
 
 * The News section utilizes web scraping to gather information from reputable websites. This data is then processed and filtered to ensure relevance and accuracy.
+
+***
 
 ### **📬 User Benefits:**
 

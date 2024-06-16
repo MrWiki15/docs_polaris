@@ -2,6 +2,8 @@
 
 The P2P Market section is designed to provide users with tools to evaluate and decide on the best peer-to-peer (P2P) markets currently available. This section leverages community feedback and performance data from popular exchanges to help users make informed decisions.
 
+***
+
 ### **🛠️ Key Features:**
 
 1. **Evaluation Tools:**
@@ -13,9 +15,13 @@ The P2P Market section is designed to provide users with tools to evaluate and d
 4. **Information Sources:**
    * Utilizes data from third-party services such as Binance and other popular exchanges to provide accurate and comprehensive market information.
 
+***
+
 ### **🌐 Technology Used:**
 
 * The P2P Market section gathers and analyzes data using services from major exchanges like Binance, ensuring users receive reliable and up-to-date information.
+
+***
 
 ### **📊 User Benefits:**
 

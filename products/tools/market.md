@@ -4,6 +4,8 @@
 
 The Market section of our platform is designed to provide an overview of the current state of the cryptocurrency and NFT markets. This section is ideal for users who want to quickly and clearly understand market trends without needing complex analysis tools.
 
+***
+
 ### **📊 Key Features:**
 
 1. **General Price Visualization:**
@@ -18,9 +20,13 @@ The Market section of our platform is designed to provide an overview of the cur
 4. **Winners and Losers:**
    * The section provides a list of the top-performing and worst-performing coins recently, helping users make informed decisions based on market trends.
 
+***
+
 ### **🔍 Technology Used:**
 
 * We use Polaris's internal API, which is responsible for collecting and processing market data. This API ensures that users receive accurate and up-to-date information about the cryptocurrency and NFT markets.
+
+***
 
 ### **📉 User Benefits:**
 

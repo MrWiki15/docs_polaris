@@ -2,6 +2,8 @@
 
 **General Description:** The Trading section is designed to be the most powerful part of the entire app, offering a plethora of tools to access and analyze blockchain information. This section is aimed at providing users with comprehensive insights and advanced analysis capabilities.
 
+***
+
 ### 💹 **Key Features:**
 
 1. **🐋 Whale Analysis:**
@@ -15,9 +17,13 @@
 5. **🧠 AI Analysis:**
    * Utilizes artificial intelligence to perform advanced analyses, predicting market trends, identifying investment opportunities, and offering strategic insights.
 
+***
+
 ### **Technology Used:**
 
 * The Trading section leverages Polaris's internal API to gather data and perform analyses. This ensures that users have access to accurate, up-to-date, and comprehensive information.
+
+***
 
 ### **User Benefits:**
 
