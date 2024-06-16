@@ -22,8 +22,6 @@
   * [📝 P2P-Market](products/tools/p2p-market.md)
   * [➗ Swaper](products/tools/swaper.md)
   * [📰 News](products/tools/news.md)
-  * [💰 Rewards](products/tools/rewards.md)
-  * [🪂 Airdrops](products/tools/airdrops.md)
   * [👨‍👩‍👦 Community](products/tools/community.md)
   * [📦 Jobs](products/tools/jobs.md)
   * [📜 Materials](products/tools/materials.md)
