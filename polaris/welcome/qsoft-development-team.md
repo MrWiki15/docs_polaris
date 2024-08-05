@@ -6,18 +6,6 @@ Qsoft is a team formed by 4 Cuban software developers who tried to <mark style="
 
 ***
 
-### The beginnings of the team
-
-Forced to look for a source of income that would facilitate the acquisition of resources, the team members<mark style="color:yellow;">, even without knowing each other,</mark> decided at an early age to enter the technological world. A sector that at that time was in constant evolution but that everyone in a certain way loved all the paradigms that each technological advance provoked.
-
-After approximately 4_years_of independent study, the group of developers decided to get together as a <mark style="color:yellow;">team</mark> to try to create that ray of light and try, perhaps, to enlighten other Cuban and world developers.
-
-<figure><img src="../../.gitbook/assets/Proyecto nuevo (4).png" alt=""><figcaption></figcaption></figure>
-
-> [URL](https://x.com/MrWiki15\_/status/1716626990491418959)
-
-***
-
 ### Qsoft's evolution over time.
 
 > And after several conversations and meetings, the newly created software creation and development team, thought to focus on creating basic web pages. It decided to take on its first jobs.

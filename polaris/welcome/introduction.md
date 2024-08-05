@@ -2,6 +2,12 @@
 
 <figure><img src="../../.gitbook/assets/PG 01 (1).png" alt=""><figcaption></figcaption></figure>
 
+## What is Polaris ?
+
+Polaris is a platform designed to provide an ecosystem of intuitive and accessible tools that enable users around the world to explore, interact and benefit from opportunities in the Web3 space. We seek to democratize access to the blockchain, ensuring that information and tools are <mark style="color:blue;">Easy, Fast and Convenient</mark> for everyone.
+
+***
+
 {% hint style="info" %}
 The complete Polaris Commercial Branding has been designed by -> [Hallgraph™](https://twitter.com/hallgraph)
 {% endhint %}
