@@ -38,4 +38,4 @@
 ## 📰 Social
 
 * [🐦 Twitter](https://twitter.com/PolarisWeb3)
-* [📖 Discord](https://discord.gg/fAag8fKx9F)
+* [📖 Discord](https://discord.gg/YgQgEHqPyd)
