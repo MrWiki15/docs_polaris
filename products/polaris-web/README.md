@@ -1,4 +1,8 @@
-# 🌐 Polaris Web
+---
+icon: globe-pointer
+---
+
+# Polaris Web
 
 <figure><img src="../../.gitbook/assets/461shots_so.png" alt=""><figcaption></figcaption></figure>
 

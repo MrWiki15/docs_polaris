@@ -1,4 +1,8 @@
-# ✏️ Design
+---
+icon: pencil
+---
+
+# Design
 
 ## 🎨 Conceptual Design 1.0
 

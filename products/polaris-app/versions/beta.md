@@ -1,4 +1,8 @@
-# 🏗️ Beta
+---
+icon: building-shield
+---
+
+# Beta
 
 * [x] Project development, Products, Services, Business model, Competition, Strategy, Economics.&#x20;
 * [x] Development of the UI + complete UX.&#x20;

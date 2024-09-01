@@ -1,4 +1,5 @@
 ---
+icon: hammer
 layout:
   title:
     visible: true
@@ -12,5 +13,5 @@ layout:
     visible: true
 ---
 
-# 🛠️ Versions
+# Versions
 

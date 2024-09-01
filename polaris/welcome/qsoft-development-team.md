@@ -12,7 +12,7 @@ Qsoft is a team formed by 4 Cuban software developers who tried to <mark style="
 
 In this way, little by little over time, and with the increasing amount of work that came to the team, they were learning new technologies. To the point of becoming advanced developers in the creation of multiplatform applications and having a high level of control in the creation of complex web applications. This in turn opened up new employment possibilities and above all, the possibility of creating their first product.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Photo taken during the creation of the marketing strategy for the GranPiedra Hotel in Santiago de Cuba by Qsoft.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Photo taken during the creation of the marketing strategy for the GranPiedra Hotel in Santiago de Cuba by Qsoft.</p></figcaption></figure>
 
 ***
 

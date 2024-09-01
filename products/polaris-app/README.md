@@ -1,4 +1,5 @@
 ---
+icon: mobile
 cover: >-
   ../../.gitbook/assets/comercio-movil-cripto-bitcoin-aislado-sobre-fondo-rosa-criptomoneda-virtual-negocio-financiero-indice-financiero-creciente-concepto-ahorro-dinero-icono-3d-ilustracion-dibujos-animados-minimo_473922-565.avif
 coverY: 0
@@ -18,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 📱 Polaris App
+# Polaris App
 
 ## Download Links Polaris App ( BETA 0.1.2 )
 

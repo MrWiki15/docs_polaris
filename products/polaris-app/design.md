@@ -1,4 +1,8 @@
-# ✒️ Design
+---
+icon: pencil
+---
+
+# Design
 
 <figure><img src="../../.gitbook/assets/iOS_ Polaris Icon (1).png" alt=""><figcaption></figcaption></figure>
 
