@@ -7,6 +7,7 @@
   * [🚂 Qsoft Development Team](polaris/welcome/qsoft-development-team.md)
   * [🗺️ RoadMap](polaris/welcome/roadmap.md)
   * [🖼️ Polaris Pass](polaris/welcome/polaris-pass/README.md)
+    * [📈 Market](polaris/welcome/polaris-pass/market.md)
     * [⚒️ Utilities](polaris/welcome/polaris-pass/utilities.md)
     * [🎨 Art Book](polaris/welcome/polaris-pass/art-book.md)
 
