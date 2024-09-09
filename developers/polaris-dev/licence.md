@@ -3,7 +3,7 @@
 ```markup
 MIT License
 
-Copyright (c) Qsoft Development Team, Inc. and affiliates.
+Copyright (c) Qsoft Development Team. and affiliates.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

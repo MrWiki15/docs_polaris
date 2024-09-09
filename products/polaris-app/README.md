@@ -21,8 +21,8 @@ layout:
 
 # Polaris App
 
-## Download Links Polaris App ( BETA 0.1.2 )
+## Download Links Polaris App ( BETA 2.0 )
 
-1. [Uptodown (Android)](https://com-mrwiki-d7.uptodown.com/android)
+1. [Website (Android)](https://polarisweb3.org/apk)
 2. PlayStore <mark style="color:blue;">(comming)</mark>
 3. AppStore <mark style="color:blue;">(comming)</mark>
