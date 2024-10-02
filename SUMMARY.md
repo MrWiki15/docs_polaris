@@ -46,6 +46,8 @@
   * [Polaris Wallet](products/polaris-bots/polaris-wallet.md)
   * [Polaris Trading](products/polaris-bots/polaris-trading.md)
 * [Polaris Extencion](products/polaris-extencion.md)
+* [Discord Package](products/discord-package.md)
+* [Poli Charts](products/poli-charts.md)
 * [🏕️ Seasons](products/seasons.md)
 
 ## 🏳️ Developers
