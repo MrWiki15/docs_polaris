@@ -4,4 +4,5 @@ icon: hammer
 
 # Discord Package
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/GIrY6Uce8qE?si=u5a1JfcmUad0OSGn" %}
+
