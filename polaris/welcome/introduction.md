@@ -2,15 +2,48 @@
 
 <figure><img src="../../.gitbook/assets/PG 01 (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+The complete Polaris Commercial Branding has been designed by -> [Hallgraph™](https://twitter.com/hallgraph)
+{% endhint %}
+
+## The Web3 Problem
+
+Although blockchain technology is undoubtedly decentralized and allows anyone to access the information available in its ecosystem, only a <mark style="color:blue;">small percentage of people</mark> manage to fully understand this information and take advantage of it due to its technical complexity. This barrier to understanding makes it difficult for new users to enter the ecosystem, as many are overwhelmed by the amount of data and the level of knowledge required to interpret it correctly.
+
+***
+
+## The Solution
+
+The solution to this problem lies in the development of tools and platforms that facilitate access to blockchain information in an <mark style="color:blue;">easy, fast and convenient way</mark>. Currently, most existing platforms in the blockchain ecosystem are not designed with the average user experience in mind. Instead of adapting to the user's needs and capabilities, they require users to adapt to them, which involves a considerable learning curve and significant effort in order to master the platform and use it effectively.
+
+In the <mark style="color:blue;">current industry trend</mark>, users must invest time and resources to understand how blockchain platforms work, from interpreting complex data to dealing with technical interfaces. This reality limits access for new entrants and creates a barrier to mass adoption of the technology.
+
+The key to changing this trend is the development of platforms that, instead of forcing users to learn and adapt, automatically adapt to each user. This approach implies that tools and platforms should be able to analyze user behavior and preferences, delivering in a personalized way only the information that users need and want to see. By reducing data complexity and <mark style="color:blue;">personalizing each user's experience</mark>, these platforms would enable a more natural and convenient interaction with the blockchain.
+
+In summary, to democratize access to blockchain information and encourage its adoption, it is essential to create platforms that study the user and adapt their interface and content automatically, offering relevant information without requiring the user to invest time in learning the platform. This would not only facilitate access, but also provide a more intuitive and <mark style="color:blue;">user-friendly user experience</mark>, allowing more people to harness the potential of blockchain without the barrier of technical complexity.
+
+***
+
+## How do you study the user ?
+
+The most efficient and <mark style="color:blue;">privacy-friendly</mark> way to analyze and understand the average user in the blockchain ecosystem is through their transaction and interaction history. Transaction history directly reflects the <mark style="color:blue;">activity the user has had on the blockchain</mark>, providing valuable information about their preferences, behaviors and needs without the need to collect private or sensitive data.
+
+This approach is based on the fact that each transaction on the blockchain, being public and accessible, provides an accurate digital footprint of what the user has done within the ecosystem: what assets they have traded, what platforms they have used, what decentralized applications (dApps) they have interacted with, and how often. This history does not reveal <mark style="color:blue;">personally identifiable information,</mark> but it can be used to build a temporal profile of the user to help personalize their experience in real time.
+
+Platforms that automatically adapt could generate these profiles based on the user's transaction history, offering an interface and content completely tailored to their specific needs and behaviors. For example:
+
+* If a user's history shows that they frequently interact with decentralized finance (DeFi) platforms, the platform may prioritize DeFi-related information, tools and resources.
+* For a user that transacts a lot of non fungible tokens (NFTs), the platform could highlight collections, marketplaces and functionalities focused on NFTs.
+
+This method offers convenience and <mark style="color:blue;">personalization</mark> without compromising privacy, as the entire process is based on public data already available on the blockchain, avoiding the collection of personal information outside the decentralized ecosystem. With these types of solutions, blockchain platforms can drastically improve the user experience, <mark style="color:blue;">allowing more people to access and participate in the ecosystem without the barrier of technical complexity.</mark>
+
+***
+
 ## What is Polaris ?
 
 Polaris is a platform designed to provide an ecosystem of intuitive and accessible tools that enable users around the world to explore, interact and benefit from opportunities in the Web3 space. We seek to democratize access to the blockchain, ensuring that information and tools are <mark style="color:blue;">Easy, Fast and Convenient</mark> for everyone.
 
 ***
-
-{% hint style="info" %}
-The complete Polaris Commercial Branding has been designed by -> [Hallgraph™](https://twitter.com/hallgraph)
-{% endhint %}
 
 ## ✨ Our Mission&#x20;
 
