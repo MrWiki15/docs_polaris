@@ -2,7 +2,7 @@
 
 ## 🔱 Launch pad: [<mark style="color:orange;">Kabila</mark>](https://kabila.app)
 
-## ♨️ Launch day: <mark style="color:purple;">Coming soon</mark>
+## ♨️ Launch day: <mark style="color:purple;">12 nov 2024, 19:00 UTC</mark>
 
 ## 🌐 Total Supply: <mark style="color:yellow;">300</mark>
 
@@ -10,7 +10,7 @@
 
 ***
 
-The distribution of the Assets will be made in 4 phases of minting, for each phase the price will increase by approximately <mark style="color:green;">30 HBAR</mark>. Starting at approximately <mark style="color:green;">600 HBAR</mark> and ending at approximately <mark style="color:green;">**690 HBAR**</mark>.
+The distribution of the Assets will be made in 4 phases of minting, for each phase the price will increase by approximately <mark style="color:green;">100 HBAR</mark>. Starting at approximately <mark style="color:green;">600 HBAR</mark> and ending at approximately <mark style="color:green;">**900 HBAR**</mark>.
 
 Our team will be left with 20 assets that we will raffle on social networks such as Twitter to expand our community.
 
